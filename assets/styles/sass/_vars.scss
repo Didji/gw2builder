@@ -1,0 +1,77 @@
+/*------------------------------------*\
+    VARS.SCSS
+\*------------------------------------*/
+/**
+ * CUSTOM
+    ^ COLORS
+    ^ FONTS
+    ^ CUSTOM FONT MIXINS
+*/
+
+/*------------------------------------*\
+    $CUSTOM
+\*------------------------------------*/
+/**
+ * Place any of your own variables that sit on top of inuit.css here.
+ */
+
+ /**
+  * ^PROFESSIONS
+  */
+  $professions: ("elementalist", "engineer", "guardian", "mesmer", "necromancer", "ranger", "revenant", "thief", "warrior");
+
+/**
+ * ^COLORS 
+ */
+$color1:            $brand-color;           // red
+$color2:            #2F7DC4;                // blue
+$color2--dark:      darken($color2, 14%);   // dark blue
+$color2--light:     lighten($color2, 8%);   // light blue
+$color3:            #6CBA16;                // green
+$color4:            #FFA501;                // orange
+$color5:            #8A2CA1;                // orange
+
+$white:             #FFF;
+$gray1:             #F7F7F7;
+$gray2:             #EEE;
+$gray3:             #D8D8D8;
+$gray4:             #9A9EA1;
+$gray5:             #808284;
+$gray6:             #58585B;
+$black:             #000;
+
+
+/**
+ * ^FONTS
+ */
+$sans-serif:        'Helvetica Neue', sans-serif;
+$serif:             'Georgia', serif;
+$cronos:            'cronos';
+$elizabeth:         'elizabeth';
+
+/**
+ * ^CUSTOM FONT MIXINS 
+ */
+@mixin sans-serif-extra-light{
+    font-family: 'Gotham SSm 2r', 'Gotham SSm A', 'Gotham SSm B';
+    font-weight: 200;
+    font-style: normal;
+}
+
+@mixin serif{
+    font-family: $serif;
+    font-weight: 100;
+}
+
+@mixin cronos {
+    font-family: $cronos;
+    font-weight: 100;
+    font-style: normal;
+}
+
+@mixin elizabeth-title {
+    font-family: $elizabeth;
+    font-weight: 200;
+    font-style: normal;
+    font-size: xx-large;
+}

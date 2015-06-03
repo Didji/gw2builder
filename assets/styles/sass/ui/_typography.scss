@@ -1,0 +1,109 @@
+/*------------------------------------*\
+    $CONTENTS
+\*------------------------------------*/
+/**
+ * GLOBAL
+ * COLORS
+ * LOAD FONTS
+ * ICONS
+ * HEADINGS
+ * LINKS
+ * ICONS
+ * OTHER
+*/
+
+
+
+
+
+/*------------------------------------*\
+    $GLOBAL
+\*------------------------------------*/
+
+html{
+    font-weight: 300;
+    font-style: normal;
+}
+
+
+
+
+
+/*------------------------------------*\
+    $COLORS
+\*------------------------------------*/
+
+// See _color.scss
+
+
+
+
+
+/*------------------------------------*\
+    $LOAD FONTS
+\*------------------------------------*/
+
+// Example
+
+// @include font-face("Icons", "../fonts/Icons");
+@font-face {
+    font-family: 'cronos';
+    src: url('../font/cronos/cronos_mm-webfont.eot');
+    src: url('../font/cronos/cronos_mm-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/cronos/cronos_mm-webfont.woff2') format('woff2'),
+         url('../font/cronos/cronos_mm-webfont.woff') format('woff'),
+         url('../font/cronos/cronos_mm-webfont.ttf') format('truetype'),
+         url('../font/cronos/cronos_mm-webfont.svg#cronos_mmregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'elizabeth';
+    src: url('../font/elizabeth/elizabeth-webfont.eot');
+    src: url('../font/elizabeth/elizabeth-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/elizabeth/elizabeth-webfont.woff2') format('woff2'),
+         url('../font/elizabeth/elizabeth-webfont.woff') format('woff'),
+         url('../font/elizabeth/elizabeth-webfont.ttf') format('truetype'),
+         url('../font/elizabeth/elizabeth-webfont.svg#elizabethregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+/*------------------------------------*\
+    $ICONS
+\*------------------------------------*/
+
+
+
+
+
+/*------------------------------------*\
+    $HEADINGS
+\*------------------------------------*/
+
+
+
+
+
+/*------------------------------------*\
+    $LINKS
+\*------------------------------------*/
+
+
+
+
+
+/*------------------------------------*\
+    $OTHER
+\*------------------------------------*/
+
+strong, 
+.bold{ font-weight: bold; }
+
+em{ font-style: italic; }
+
+.no-underline{ text-decoration: none; }
