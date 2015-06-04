@@ -10,3 +10,5 @@ assets/bower_components
 bower.json
 Gruntfile.js
 Procfile
+package.json
+.jshintrc
