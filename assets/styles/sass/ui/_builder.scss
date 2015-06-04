@@ -17,3 +17,27 @@
 	background-color: #000;
 	height: 80px;
 }
+
+@each $profession in $professions {
+	$i: index($professions, $profession);
+	$cornerBase: ((($i - 1) * 3) * 32) * -1;
+	$cornerHover: $cornerBase - 32;
+	$cornerSelected: $cornerBase - 64;
+	.#{$profession}-icon {
+		width: 32px;
+		height: 32px;
+		background: url("/images/profession/professions_icons.png") #{$cornerBase}px 0;
+	}
+
+	.#{$profession}-icon:hover {
+		width: 32px;
+		height: 32px;
+		background: url("/images/profession/professions_icons.png") #{$cornerHover}px 0;
+	}
+
+	.#{$profession}-icon.selected {
+		width: 32px;
+		height: 32px;
+		background: url("/images/profession/professions_icons.png") #{$cornerSelected}px 0;
+	}
+}
