@@ -1,57 +1,360 @@
-/*
-Error: Undefined variable: "$brand-color".
-        on line 26 of assets/styles/sass/_vars.scss
-        from line 10 of assets/styles/sass/screen.scss
-
-Backtrace:
-assets/styles/sass/_vars.scss:26
-assets/styles/sass/screen.scss:10
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/lib/sass/script/tree/variable.rb:49:in `_perform'
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/lib/sass/script/tree/node.rb:50:in `perform'
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/lib/sass/tree/visitors/perform.rb:468:in `visit_variable'
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/lib/sass/tree/visitors/base.rb:36:in `visit'
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/lib/sass/tree/visitors/perform.rb:158:in `block in visit'
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/lib/sass/stack.rb:79:in `block in with_base'
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/lib/sass/stack.rb:115:in `with_frame'
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/lib/sass/stack.rb:79:in `with_base'
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/lib/sass/tree/visitors/perform.rb:158:in `visit'
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/lib/sass/tree/visitors/perform.rb:325:in `block (2 levels) in visit_import'
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/lib/sass/tree/visitors/perform.rb:325:in `map'
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/lib/sass/tree/visitors/perform.rb:325:in `block in visit_import'
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/lib/sass/stack.rb:88:in `block in with_import'
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/lib/sass/stack.rb:115:in `with_frame'
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/lib/sass/stack.rb:88:in `with_import'
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/lib/sass/tree/visitors/perform.rb:322:in `visit_import'
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/lib/sass/tree/visitors/base.rb:36:in `visit'
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/lib/sass/tree/visitors/perform.rb:158:in `block in visit'
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/lib/sass/stack.rb:79:in `block in with_base'
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/lib/sass/stack.rb:115:in `with_frame'
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/lib/sass/stack.rb:79:in `with_base'
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/lib/sass/tree/visitors/perform.rb:158:in `visit'
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/lib/sass/tree/visitors/base.rb:52:in `block in visit_children'
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/lib/sass/tree/visitors/base.rb:52:in `map'
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/lib/sass/tree/visitors/base.rb:52:in `visit_children'
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/lib/sass/tree/visitors/perform.rb:167:in `block in visit_children'
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/lib/sass/tree/visitors/perform.rb:179:in `with_environment'
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/lib/sass/tree/visitors/perform.rb:166:in `visit_children'
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/lib/sass/tree/visitors/base.rb:36:in `block in visit'
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/lib/sass/tree/visitors/perform.rb:186:in `visit_root'
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/lib/sass/tree/visitors/base.rb:36:in `visit'
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/lib/sass/tree/visitors/perform.rb:157:in `visit'
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/lib/sass/tree/visitors/perform.rb:8:in `visit'
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/lib/sass/tree/root_node.rb:36:in `css_tree'
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/lib/sass/tree/root_node.rb:29:in `render_with_sourcemap'
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/lib/sass/engine.rb:368:in `_render_with_sourcemap'
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/lib/sass/engine.rb:285:in `render_with_sourcemap'
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/lib/sass/exec/sass_scss.rb:407:in `run'
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/lib/sass/exec/sass_scss.rb:63:in `process_result'
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/lib/sass/exec/base.rb:52:in `parse'
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/lib/sass/exec/base.rb:19:in `parse!'
-C:/Ruby22-x64/lib/ruby/gems/2.2.0/gems/sass-3.4.13/bin/sass:13:in `<top (required)>'
-C:/Ruby22-x64/bin/sass:23:in `load'
-C:/Ruby22-x64/bin/sass:23:in `<main>'
+@charset "UTF-8";
+/*------------------------------------*\
+    SCREEN.CSS
+\*------------------------------------*/
+/**
+ * Setup
+ */
+/*------------------------------------*\
+    VARS.SCSS
+\*------------------------------------*/
+/**
+    ^ PROFESSIONS
+    ^ COLORS
+    ^ FONTS
+    ^ CUSTOM FONT MIXINS
 */
-body:before {
-  white-space: pre;
-  font-family: monospace;
-  content: "Error: Undefined variable: \"$brand-color\".\A         on line 26 of assets/styles/sass/_vars.scss\A         from line 10 of assets/styles/sass/screen.scss"; }
+/**
+ * ^PROFESSIONS
+ */
+/**
+ * ^COLORS 
+ */
+/**
+ * ^FONTS
+ */
+/**
+ * ^CUSTOM FONT MIXINS 
+ */
+/**
+ * She’s all yours, cap’n... Begin importing your stuff here.
+ */
+/*------------------------------------*\
+    $CONTENTS
+\*------------------------------------*/
+/**
+ * GLOBAL
+ * COLORS
+ * LOAD FONTS
+ * ICONS
+ * HEADINGS
+ * LINKS
+ * ICONS
+ * OTHER
+*/
+/*------------------------------------*\
+    $GLOBAL
+\*------------------------------------*/
+/* line 23, sass/ui/_typography.scss */
+html {
+  font-weight: 300;
+  font-style: normal;
+}
+
+/*------------------------------------*\
+    $COLORS
+\*------------------------------------*/
+/*------------------------------------*\
+    $LOAD FONTS
+\*------------------------------------*/
+@font-face {
+  font-family: 'cronos';
+  src: url("../font/cronos/cronos_mm-webfont.eot");
+  src: url("../font/cronos/cronos_mm-webfont.eot?#iefix") format("embedded-opentype"), url("../font/cronos/cronos_mm-webfont.woff2") format("woff2"), url("../font/cronos/cronos_mm-webfont.woff") format("woff"), url("../font/cronos/cronos_mm-webfont.ttf") format("truetype"), url("../font/cronos/cronos_mm-webfont.svg#cronos_mmregular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'elizabeth';
+  src: url("../font/elizabeth/elizabeth-webfont.eot");
+  src: url("../font/elizabeth/elizabeth-webfont.eot?#iefix") format("embedded-opentype"), url("../font/elizabeth/elizabeth-webfont.woff2") format("woff2"), url("../font/elizabeth/elizabeth-webfont.woff") format("woff"), url("../font/elizabeth/elizabeth-webfont.ttf") format("truetype"), url("../font/elizabeth/elizabeth-webfont.svg#elizabethregular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+/*------------------------------------*\
+    $ICONS
+\*------------------------------------*/
+/*------------------------------------*\
+    $HEADINGS
+\*------------------------------------*/
+/*------------------------------------*\
+    $LINKS
+\*------------------------------------*/
+/*------------------------------------*\
+    $OTHER
+\*------------------------------------*/
+/* line 104, sass/ui/_typography.scss */
+strong,
+.bold {
+  font-weight: bold;
+}
+
+/* line 107, sass/ui/_typography.scss */
+em {
+  font-style: italic;
+}
+
+/* line 109, sass/ui/_typography.scss */
+.no-underline {
+  text-decoration: none;
+}
+
+/*------------------------------------*\
+    $CONTENTS
+\*------------------------------------*/
+/**
+ * TEXT
+ * BACKGROUND
+ * BORDERS
+ * BLOCKS
+*/
+/*------------------------------------*\
+    $TEXT
+\*------------------------------------*/
+/* line 19, sass/ui/_color.scss */
+body {
+  color: #808284;
+}
+
+/* line 22, sass/ui/_color.scss */
+.white {
+  color: #FFF;
+}
+
+/* line 23, sass/ui/_color.scss */
+.gray1 {
+  color: #F7F7F7;
+}
+
+/* line 24, sass/ui/_color.scss */
+.gray2 {
+  color: #EEE;
+}
+
+/* line 25, sass/ui/_color.scss */
+.gray3 {
+  color: #D8D8D8;
+}
+
+/* line 26, sass/ui/_color.scss */
+.gray4 {
+  color: #9A9EA1;
+}
+
+/* line 27, sass/ui/_color.scss */
+.gray5 {
+  color: #808284;
+}
+
+/* line 28, sass/ui/_color.scss */
+.gray6 {
+  color: #58585B;
+}
+
+/* line 29, sass/ui/_color.scss */
+.black {
+  color: #000;
+}
+
+/* line 32, sass/ui/_color.scss */
+.color1,
+.hover-color1:hover,
+.hover-color1.active {
+  color: #D70014 !important;
+}
+
+/* line 36, sass/ui/_color.scss */
+.color2,
+.hover-color2:hover,
+.hover-color2.active {
+  color: #2F7DC4 !important;
+}
+
+/* line 40, sass/ui/_color.scss */
+.color3,
+.hover-color3:hover,
+.hover-color3.active {
+  color: #6CBA16 !important;
+}
+
+/* line 44, sass/ui/_color.scss */
+.color4,
+.hover-color4:hover,
+.hover-color4.active {
+  color: #FFA501 !important;
+}
+
+/* line 48, sass/ui/_color.scss */
+.color5,
+.hover-color5:hover,
+.hover-color5.active {
+  color: #8A2CA1 !important;
+}
+
+/*------------------------------------*\
+    $BACKGROUND
+\*------------------------------------*/
+/* line 60, sass/ui/_color.scss */
+.bg-white {
+  background-color: #FFF;
+}
+
+/* line 61, sass/ui/_color.scss */
+.bg-gray1 {
+  background-color: #F7F7F7;
+}
+
+/* line 62, sass/ui/_color.scss */
+.bg-gray2 {
+  background-color: #EEE;
+}
+
+/* line 63, sass/ui/_color.scss */
+.bg-gray3 {
+  background-color: #D8D8D8;
+}
+
+/* line 64, sass/ui/_color.scss */
+.bg-gray4 {
+  background-color: #9A9EA1;
+}
+
+/* line 65, sass/ui/_color.scss */
+.bg-gray5 {
+  background-color: #808284;
+}
+
+/* line 66, sass/ui/_color.scss */
+.bg-gray6 {
+  background-color: #58585B;
+}
+
+/* line 67, sass/ui/_color.scss */
+.bg-black {
+  background-color: #000;
+}
+
+/* line 69, sass/ui/_color.scss */
+.bg-color1 {
+  background-color: #D70014;
+}
+
+/* line 70, sass/ui/_color.scss */
+.bg-color2 {
+  background-color: #2F7DC4;
+}
+
+/* line 71, sass/ui/_color.scss */
+.bg-color3 {
+  background-color: #6CBA16;
+}
+
+/* line 72, sass/ui/_color.scss */
+.bg-color4 {
+  background-color: #FFA501;
+}
+
+/* line 73, sass/ui/_color.scss */
+.bg-color5 {
+  background-color: #8A2CA1;
+}
+
+/* line 76, sass/ui/_color.scss */
+.bg-gray4,
+.bg-gray5,
+.bg-gray6,
+.bg-black,
+.bg-color1,
+.bg-color2,
+.bg-color3,
+.bg-color4,
+.bg-color5 {
+  color: #FFF;
+}
+
+/*------------------------------------*\
+    $BORDERS
+\*------------------------------------*/
+/* line 96, sass/ui/_color.scss */
+.border-color1 {
+  border-color: #D70014;
+}
+
+/* line 97, sass/ui/_color.scss */
+.border-color2 {
+  border-color: #2F7DC4;
+}
+
+/* line 98, sass/ui/_color.scss */
+.border-color3 {
+  border-color: #6CBA16;
+}
+
+/* line 99, sass/ui/_color.scss */
+.border-color4 {
+  border-color: #FFA501;
+}
+
+/* line 101, sass/ui/_color.scss */
+.border-none {
+  border: none !important;
+}
+
+/*------------------------------------*\
+    $CONTENTS
+\*------------------------------------*/
+/**
+ * TITLE
+*/
+/*------------------------------------*\
+    $TITLE
+\*------------------------------------*/
+/* line 15, sass/ui/_header.scss */
+h1 {
+  font-family: "elizabeth";
+  font-weight: 200;
+  font-style: normal;
+  font-size: xx-large;
+  text-align: center;
+}
+
+/*------------------------------------*\
+    $BUILDER
+\*------------------------------------*/
+/**
+ * BUILDER
+*/
+/* line 8, sass/ui/_builder.scss */
+#builder {
+  width: 1200px;
+  height: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #AAA;
+}
+
+/* line 16, sass/ui/_builder.scss */
+#professionSelection {
+  background-color: #000;
+  height: 80px;
+}
+
+/*------------------------------------*\
+    $CONTENTS
+\*------------------------------------*/
+/**
+ * FOOTER
+*/
+/*------------------------------------*\
+    $FOOTER
+\*------------------------------------*/
+/* line 15, sass/ui/_footer.scss */
+footer {
+  font-family: "cronos";
+  font-weight: 100;
+  font-style: normal;
+  font-size: small;
+  margin-top: 15px;
+}
+
+/*# sourceMappingURL=screen.css.map */

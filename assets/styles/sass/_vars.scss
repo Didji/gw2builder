@@ -2,18 +2,11 @@
     VARS.SCSS
 \*------------------------------------*/
 /**
- * CUSTOM
+    ^ PROFESSIONS
     ^ COLORS
     ^ FONTS
     ^ CUSTOM FONT MIXINS
 */
-
-/*------------------------------------*\
-    $CUSTOM
-\*------------------------------------*/
-/**
- * Place any of your own variables that sit on top of inuit.css here.
- */
 
  /**
   * ^PROFESSIONS
@@ -23,7 +16,7 @@
 /**
  * ^COLORS 
  */
-$color1:            $brand-color;           // red
+$color1:            #D70014;           // red
 $color2:            #2F7DC4;                // blue
 $color2--dark:      darken($color2, 14%);   // dark blue
 $color2--light:     lighten($color2, 8%);   // light blue

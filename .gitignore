@@ -4,3 +4,9 @@ node_modules
 app/bower_components
 gw2builder.sublime-project
 gw2builder.sublime-workspace
+assets/bower_components
+.bowerrc
+.editorconfig
+bower.json
+Gruntfile.js
+Procfile
