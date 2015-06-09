@@ -1,0 +1,362 @@
+{
+  "specializations": {
+    "1": {
+      "name": "Domination",
+      "minor": {
+        "1": {
+          "name": "Illusion of Vulnerability",
+          "desc": "Inflict vulnerability when you interrupt a foe."
+        },
+        "2": {
+          "name": "Dazzling",
+          "desc": "Dazing a foe also applies vulnerability."
+        },
+        "3": {
+          "name": "Fragility",
+          "desc": "Deal 10% increased damage to vulnerable foes."
+        }
+      },
+      "adept": {
+        "1": {
+          "name": "Confounding Suggestions",
+          "desc": "100% Chance to inflict stun whenever you daze a target. Increased daze duration by 25%."
+        },
+        "2": {
+          "name": "Empowered Illusions",
+          "desc": "Illusions deal 15% more damage."
+        },
+        "3": {
+          "name": "Rendering Shatter",
+          "desc": "Shattering illusions inflicts vulnerability on nearby foes."
+        }
+      },
+      "master": {
+        "1": {
+          "name": "Shattered Concentration",
+          "desc": "Shatter skills also remove a boon on hit."
+        },
+        "2": {
+          "name": "Blurred Inscriptions",
+          "desc": "Activating a signet also grant you distortion and removes conditions. Signet recharge is also reduced by 20%."
+        },
+        "3": {
+          "name": "Furious Interruption",
+          "desc": "Gain quickness when you interrupt a foe."
+        }
+      },
+      "grandmaster": {
+        "1": {
+          "name": "Greatsword Training",
+          "desc": "100 Increased power while wielding a greatsword. Reduce 2% recharge on greatsword skills whenever you or an illusion hits with Spatial Surge."
+        },
+        "2": {
+          "name": "Mental Torment",
+          "desc": "Shattered skills deal 25% more damage. This damage increase is doubled against foes that are not activating skills."
+        },
+        "3": {
+          "name": "Power Block",
+          "desc": "Interrupts deal damage and inflicts weakness. Enemy skills that you interrupt have an increased cooldown."
+        }
+      }
+    },
+    "2": {
+      "name": "Dueling",
+      "minor": {
+        "1": {
+          "name": "Critical Infusion",
+          "desc": "Gain vigor when delivering a critical hit."
+        },
+        "2": {
+          "name": "Sharper Images",
+          "desc": "Illusions inflict bleeding on critical hits."
+        },
+        "3": {
+          "name": "Confusing Combatants",
+          "desc": "You and your illusions inflict confusion when you critical hit."
+        }
+      },
+      "adept": {
+        "1": {
+          "name": "Phantasmal Fury",
+          "desc": "Your phantasms have fury."
+        },
+        "2": {
+          "name": "Desperate Decoy",
+          "desc": "Cloak and leave a clone of yourself behind if you take damage while below health threshold (50%)."
+        },
+        "3": {
+          "name": "Duelist Discipline",
+          "desc": "Pistol attacks from you and your illusions have a chance to cause bleeding. Interrupting a foe recharges pistol skills by 50%."
+        }
+      },
+      "master": {
+        "1": {
+          "name": "Blinding Dissipation",
+          "desc": "Blind foes around you whenever you use a shatter skill."
+        },
+        "2": {
+          "name": "Evasive Mirror",
+          "desc": "Gain a barrier that reflects projectiles after a successful evasion."
+        },
+        "3": {
+          "name": "Blade Training",
+          "desc": "Increased 50 precision while wielding a one-handed sword or spear. Reduces 20% recharge on sword and spear skills."
+        }
+      },
+      "grandmaster": {
+        "1": {
+          "name": "Harmonious Mantras",
+          "desc": "Mantras can be activated 3 times before needing to be channeled again. Activating a mantra give a 4% stacking ferocity bonus."
+        },
+        "2": {
+          "name": "Mistrust",
+          "desc": "Whenever you interrupt a foe inflict confusion in an area around them."
+        },
+        "3": {
+          "name": "Deceptive Evasion",
+          "desc": "Create a clone at your current position when you dodge."
+        }
+      }
+    },
+    "3": {
+      "name": "Chaos",
+      "minor": {
+        "1": {
+          "name": "Metaphysical Rejuvenation",
+          "desc": "Gain regeneration when your health drops below the threshold (75%)."
+        },
+        "2": {
+          "name": "Illusionary Membrane",
+          "desc": "Gain protection when you gain regeneration."
+        },
+        "3": {
+          "name": "Chaotic Persistence",
+          "desc": "Each boon on you increases the duration of outgoing boons and conditions."
+        }
+      },
+      "adept": {
+        "1": {
+          "name": "Descent into Madness",
+          "desc": "Create a chaos storm when you take falling damage. Take 50% less damage from falling."
+        },
+        "2": {
+          "name": "Illusionary Defense",
+          "desc": "Take 3% reduced damage for each illusion you have in the world."
+        },
+        "3": {
+          "name": "Master of Manipulation",
+          "desc": "When you use a manipulation skill, gain mirror for a short duration. Reduces recharge on manipulation skills by 20%."
+        }
+      },
+      "master": {
+        "1": {
+          "name": "Mirror of Anguish",
+          "desc": "When disabled, you mirror the disabling effect back to its source."
+        },
+        "2": {
+          "name": "Chaotic Transference",
+          "desc": "Gain 10% condition damage based on your toughness."
+        },
+        "3": {
+          "name": "Chaotic Dampening",
+          "desc": "Chaos Armor grants protection. Staff and trident skills recharge faster while you have chaos armor."
+        }
+      },
+      "grandmaster": {
+        "1": {
+          "name": "Chaotic Interruption",
+          "desc": "When you interrupt a foe you immobilize them and gain Might. You then gain an additional random boon while your target gains a random condition."
+        },
+        "2": {
+          "name": "Prismatic Understanding",
+          "desc": "Increased stealth duration from mesmer skills. Gain random boons while you are stealthed."
+        },
+        "3": {
+          "name": "Bountiful Disillusionment",
+          "desc": "When you use a shatter gain stability. Then you and all nearby allies gain a unique boon based on what shatter was used."
+        }
+      }
+    },
+    "4": {
+      "name": "Inspiration",
+      "minor": {
+        "1": {
+          "name": "Persisting Images",
+          "desc": "Phantasms have 20% increased health and spawn with retaliation."
+        },
+        "2": {
+          "name": "Protected Phantasms",
+          "desc": "Phantasms gain distortion briefly upon creation."
+        },
+        "3": {
+          "name": "Phantasmal Healing",
+          "desc": "Phantasms grant regeneration to nearby allies. Your healing power is increased by 100 for each illusion you control."
+        }
+      },
+      "adept": {
+        "1": {
+          "name": "Medic’s Feedback",
+          "desc": "Create a feedback bubble while reviving an ally. Your revive speed is increased by 10%."
+        },
+        "2": {
+          "name": "Mender’s Purity",
+          "desc": "Cast Power Cleanse when you use a healing skill. Heal allies around you when you finish preparing a mantra."
+        },
+        "3": {
+          "name": "Vigorous Revelation",
+          "desc": "Shattering illusions grants vigor to nearby allies."
+        }
+      },
+      "master": {
+        "1": {
+          "name": "Warden’s Feedback",
+          "desc": "Focus weapon skills reflect projectiles. Reduces recharge on focus weapon skills by 20%."
+        },
+        "2": {
+          "name": "Restorative Illusions",
+          "desc": "Heal a small amount when you shatter illusions."
+        },
+        "3": {
+          "name": "Compounding Celerity",
+          "desc": "Move 10% faster for each active illusion. Gain swiftness whenever an illusion shatters."
+        }
+      },
+      "grandmaster": {
+        "1": {
+          "name": "Shattered Conditions",
+          "desc": "Using a shatter skill removes a condition from you and allies around you."
+        },
+        "2": {
+          "name": "Illusionary Inspiration",
+          "desc": "Whenever you summon a phantasm, cast Signet of Inspiration."
+        },
+        "3": {
+          "name": "Temporal Enchanter",
+          "desc": "Glamour skills last longer. When an ally enters or exits a glamour they gain super speed."
+        }
+      }
+    },
+    "5": {
+      "name": "Illusions",
+      "minor": {
+        "1": {
+          "name": "Illusionary Retribution",
+          "desc": "All Shatter skills inflict confusion."
+        },
+        "2": {
+          "name": "Illusionist’s Celerity",
+          "desc": "Reduce recharge on illusion-summoning skills by 20%"
+        },
+        "3": {
+          "name": "Shattered Strength",
+          "desc": "Shattering illusions grant you might per illusion. Shatters recharge 15% faster."
+        }
+      },
+      "adept": {
+        "1": {
+          "name": "Compounding Power",
+          "desc": "Gain 3% increased damage for each of your active illusions."
+        },
+        "2": {
+          "name": "Persistence of Memory",
+          "desc": "Shattering a phantasm recharges all phantasms by a small amount (2%)."
+        },
+        "3": {
+          "name": "The Pledge",
+          "desc": "Torch skills remove conditions. Torch skills recharge 1.5% faster while you are in stealth."
+        }
+      },
+      "master": {
+        "1": {
+          "name": "Sum of All Fears",
+          "desc": "When you apply 5 or more stacks of confusion on a target you also apply torment."
+        },
+        "2": {
+          "name": "Phantasmal Haste",
+          "desc": "Phantasms attack more often (20% reduction on recharge)."
+        },
+        "3": {
+          "name": "Malicious Sorcery",
+          "desc": "Torment deals 50% increased damage to moving foes. Reduces 2% recharge on scepter skills when you inflict confusion."
+        }
+      },
+      "grandmaster": {
+        "1": {
+          "name": "Blinding Befuddlement",
+          "desc": "Cause confusion when you blind a foe. Confusion lasts longer."
+        },
+        "2": {
+          "name": "Master of Fragmentation",
+          "desc": "Your shatter skills are improved."
+        },
+        "3": {
+          "name": "Maim the Disillusioned",
+          "desc": "Enemies hit by shatter skills are inflicted with torment."
+        }
+      }
+    },
+    "6": {
+      "name": "Chronomancer",
+      "elite": 1,
+      "minor": {
+        "1": {
+          "name": "Time Splitter",
+          "desc": "Gain access to continuum split/shift which allows you to revert to an earlier point in time."
+        },
+        "2": {
+          "name": "Flow of Time",
+          "desc": "Gain alacrity when you shatter. (1s)"
+        },
+        "3": {
+          "name": "Time Marches On",
+          "desc": "You move 25% faster. The duration of incoming movement-impairing conditions is reduced by 25%. (Cripple. Chilled, Immobilize)"
+        }
+      },
+      "adept": {
+        "1": {
+          "name": "Time Catches Up",
+          "desc": "Activating a shatter gives your illusions Super Speed."
+        },
+        "2": {
+          "name": "Delayed Reactions",
+          "desc": "Interrupting a foe slows them. (3s of Slow)"
+        },
+        "3": {
+          "name": "All’s Well that Ends Well",
+          "desc": "Wells remove conditions from allies when they end. (1 condition)"
+        }
+      },
+      "master": {
+        "1": {
+          "name": "Illusionary Reversion",
+          "desc": "Gain a clone after you activate a shatter skill."
+        },
+        "2": {
+          "name": "Improved Alacrity",
+          "desc": "Alacrity applied to you lasts longer. (33%)"
+        },
+        "3": {
+          "name": "Danger Time",
+          "desc": "Gain additional critical hit chance against slowed enemies. (30%)"
+        }
+      },
+      "grandmaster": {
+        "1": {
+          "name": "Lost Time",
+          "desc": "Every 3rd critical hit will slow your target. (2s of Slow)"
+        },
+        "2": {
+          "name": "Chronophantasma",
+          "desc": "Your phantasms respawn the first time they are shattered."
+        },
+        "3": {
+          "name": "Seize The Moment",
+          "desc": "Gain quickness for each illusion you shatter. (1s of Quickness)"
+        }
+      }
+    }
+  },
+  "skills": {},
+  "weapons": {},
+  "stats": {}
+}

@@ -1,0 +1,362 @@
+{
+  "specializations": {
+    "1": {
+      "name": "Explosives",
+      "minor": {
+        "1": {
+          "name": "Evasive Powder Keg",
+          "desc": "Creates a bomb when you dodge."
+        },
+        "2": {
+          "name": "Steel-Packed Powder",
+          "desc": "Explosions cause vulnerability."
+        },
+        "3": {
+          "name": "Explosive Powder",
+          "desc": "Improves damage from explosives by 10%."
+        }
+      },
+      "adept": {
+        "1": {
+          "name": "Grenadier",
+          "desc": "Increase grenade radius and velocity."
+        },
+        "2": {
+          "name": "Explosive Rocket Belt",
+          "desc": "Projectile on hit, 33% chance."
+        },
+        "3": {
+          "name": "TBD",
+          "desc": "TBD"
+        }
+      },
+      "master": {
+        "1": {
+          "name": "TBD",
+          "desc": "Increased damage vs targets with vulnerability."
+        },
+        "2": {
+          "name": "Explosive Descent",
+          "desc": "Release a barrage of grenades when you take falling damage. You take 50% less damage from falling."
+        },
+        "3": {
+          "name": "Short Fuse",
+          "desc": "Reduces recharge and time to explode on bombs only."
+        }
+      },
+      "grandmaster": {
+        "1": {
+          "name": "TBD",
+          "desc": "Mortar fields last longer. Skill 5 is a barrage or skill 1 becomes blast finisher."
+        },
+        "2": {
+          "name": "Shrapnel",
+          "desc": "Explosions have a chance to cause bleeding and cripple."
+        },
+        "3": {
+          "name": "TBD",
+          "desc": "Evasive Powder Keg become a blast finisher."
+        }
+      }
+    },
+    "2": {
+      "name": "Firearms",
+      "minor": {
+        "1": {
+          "name": "Sharpshooter",
+          "desc": "Critical hits have a chance to cause bleeding."
+        },
+        "2": {
+          "name": "Target the Weak",
+          "desc": "Critical-hit chance is increased against foes that are below the health threshold."
+        },
+        "3": {
+          "name": "Target the Maimed",
+          "desc": "Damage is increased against bleeding foes."
+        }
+      },
+      "adept": {
+        "1": {
+          "name": "TBD",
+          "desc": "New pistol trait that improves conditions."
+        },
+        "2": {
+          "name": "TBD",
+          "desc": "Increased crit chance at <600 range."
+        },
+        "3": {
+          "name": "TBD",
+          "desc": "You have a chance to cause vulnerability and gains swiftness on critical hits."
+        }
+      },
+      "master": {
+        "1": {
+          "name": "TBD",
+          "desc": "Rifle/speargun trait to reduce recharge and increase critical chance."
+        },
+        "2": {
+          "name": "TBD",
+          "desc": "Gain % of condition damage based on your critical chance."
+        },
+        "3": {
+          "name": "TBD",
+          "desc": "Reduced cripple, immobilize, chill. Swiftness has a greater effect."
+        }
+      },
+      "grandmaster": {
+        "1": {
+          "name": "Modified Ammunition",
+          "desc": "Increases damage for each condition on a foe."
+        },
+        "2": {
+          "name": "Juggernaut",
+          "desc": "Pulsing stability, 1 stack per 3 seconds."
+        },
+        "3": {
+          "name": "Incendiary Powder + Napalm Specialist",
+          "desc": "Critical hits apply burning and burns you apply last longer."
+        }
+      }
+    },
+    "3": {
+      "name": "Inventions",
+      "minor": {
+        "1": {
+          "name": "TBD",
+          "desc": "Using a heal skill remove a condition from allies."
+        },
+        "2": {
+          "name": "TBD",
+          "desc": "Whenever you remove a condition you and allies gain regen."
+        },
+        "3": {
+          "name": "TBD",
+          "desc": "Healing power increased when under effect of regen."
+        }
+      },
+      "adept": {
+        "1": {
+          "name": "TBD",
+          "desc": "Shield skills grant protection to nearby allies, recharge 20% faster."
+        },
+        "2": {
+          "name": "TBD",
+          "desc": "Using a heal skill triggers a blast finisher at your location."
+        },
+        "3": {
+          "name": "Autodefense Bomb Dispenser",
+          "desc": "Drop a smoke bomb whenever you are disabled."
+        }
+      },
+      "master": {
+        "1": {
+          "name": "Experimental Turrets",
+          "desc": "Turrets apply boons to allies around them."
+        },
+        "2": {
+          "name": "TBD",
+          "desc": "Blast finishers heal."
+        },
+        "3": {
+          "name": "TBD",
+          "desc": "TBD"
+        }
+      },
+      "grandmaster": {
+        "1": {
+          "name": "TBD",
+          "desc": "Bunker down give med kits."
+        },
+        "2": {
+          "name": "TBD",
+          "desc": "Incoming heal heal allies for a % of that heal."
+        },
+        "3": {
+          "name": "Fortified Turrets + Metal Plating",
+          "desc": "Your turrets are surrounded by a reflective shield when created and reduce damage dealt to turrets."
+        }
+      }
+    },
+    "4": {
+      "name": "Alchemy",
+      "minor": {
+        "1": {
+          "name": "Hidden Flask",
+          "desc": "Drink an Elixir B when struck while below the health threshold."
+        },
+        "2": {
+          "name": "Transmute",
+          "desc": "Incoming conditions have a chance to convert into boons."
+        },
+        "3": {
+          "name": "TBD",
+          "desc": "TBD"
+        }
+      },
+      "adept": {
+        "1": {
+          "name": "Protection Injection",
+          "desc": "Gain protection whenever you are disabled."
+        },
+        "2": {
+          "name": "TBD",
+          "desc": "Elixir Gun Trait + TBD"
+        },
+        "3": {
+          "name": "Invigorating Speed",
+          "desc": "When you gain swiftness, you also gain vigor."
+        }
+      },
+      "master": {
+        "1": {
+          "name": "Backpack Regenerator",
+          "desc": "Regenerate health every second when using a kit."
+        },
+        "2": {
+          "name": "TBD",
+          "desc": "Med Kit Trait (TBD)"
+        },
+        "3": {
+          "name": "Self-Regulating Defenses",
+          "desc": "Drink an Elixir S when you are struck while below the health threshold."
+        }
+      },
+      "grandmaster": {
+        "1": {
+          "name": "HGH+ Fast-Acting Elixir",
+          "desc": "All elixirs give might. Reduce recharge on elixir skills."
+        },
+        "2": {
+          "name": "Automated Response",
+          "desc": "Condition durations are reduced by 50% while below the health threshold."
+        },
+        "3": {
+          "name": "TBD",
+          "desc": "TBD"
+        }
+      }
+    },
+    "5": {
+      "name": "Tools",
+      "minor": {
+        "1": {
+          "name": "Adrenaline Pump",
+          "desc": "Using toolbelt skills partially restores endurance."
+        },
+        "2": {
+          "name": "Inertial Converter",
+          "desc": "Your tool belt skills recharge when you are struck while below the health threshold."
+        },
+        "3": {
+          "name": "TBD",
+          "desc": "Decrease recharge on toolbelts."
+        }
+      },
+      "adept": {
+        "1": {
+          "name": "Static Discharge",
+          "desc": "Discharge a bolt of lightning whenever you use a tool belt skill."
+        },
+        "2": {
+          "name": "Always Prepared",
+          "desc": "Drop bandages and oil slicks when downed. Downed damage is increased."
+        },
+        "3": {
+          "name": "Power Wrench",
+          "desc": "Reduces recharge and improves damage for tool kit skills. Enhances turret-repairing skills."
+        }
+      },
+      "master": {
+        "1": {
+          "name": "Speedy Kits + Kit Reinfement",
+          "desc": "Gain swiftness whenever you equip a kit. Equipping a kit creates an attack or a spell."
+        },
+        "2": {
+          "name": "Adrenal Implant",
+          "desc": "Endurance regeneration is increased."
+        },
+        "3": {
+          "name": "TBD",
+          "desc": "TBD"
+        }
+      },
+      "grandmaster": {
+        "1": {
+          "name": "TBD",
+          "desc": "Gadget Trait (TBD)"
+        },
+        "2": {
+          "name": "Cleaning Formula 409",
+          "desc": "Throwing or consuming elixirs removes conditions from those affected."
+        },
+        "3": {
+          "name": "TBD",
+          "desc": "TBD"
+        }
+      }
+    },
+    "6": {
+      "name": "TBD",
+      "elite": 1,
+      "minor": {
+        "1": {
+          "name": "TBD",
+          "desc": "TBD"
+        },
+        "2": {
+          "name": "TBD",
+          "desc": "TBD"
+        },
+        "3": {
+          "name": "TBD",
+          "desc": "TBD"
+        }
+      },
+      "adept": {
+        "1": {
+          "name": "TBD",
+          "desc": "TBD"
+        },
+        "2": {
+          "name": "TBD",
+          "desc": "TBD"
+        },
+        "3": {
+          "name": "TBD",
+          "desc": "TBD"
+        }
+      },
+      "master": {
+        "1": {
+          "name": "TBD",
+          "desc": "TBD"
+        },
+        "2": {
+          "name": "TBD",
+          "desc": "TBD"
+        },
+        "3": {
+          "name": "TBD",
+          "desc": "TBD"
+        }
+      },
+      "grandmaster": {
+        "1": {
+          "name": "TBD",
+          "desc": "TBD"
+        },
+        "2": {
+          "name": "TBD",
+          "desc": "TBD"
+        },
+        "3": {
+          "name": "TBD",
+          "desc": "TBD"
+        }
+      }
+    }
+  },
+  "skills": {},
+  "weapons": {},
+  "stats": {}
+}

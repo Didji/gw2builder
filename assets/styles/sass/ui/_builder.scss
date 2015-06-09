@@ -15,7 +15,11 @@
 
 #professionSelection {
 	background-color: #000;
-	height: 80px;
+	height: 40px;
+	width: 1200px;
+	display: table-cell;
+	vertical-align: bottom;
+	text-align: center;
 }
 
 @each $profession in $professions {
@@ -26,18 +30,19 @@
 	.#{$profession}-icon {
 		width: 32px;
 		height: 32px;
-		background: url("/images/profession/professions_icons.png") #{$cornerBase}px 0;
+		background: url("/images/profession/professions_icons.png") #{$cornerBase}px 0 no-repeat;
+		display: inline-block;
 	}
 
 	.#{$profession}-icon:hover {
 		width: 32px;
 		height: 32px;
-		background: url("/images/profession/professions_icons.png") #{$cornerHover}px 0;
+		background: url("/images/profession/professions_icons.png") #{$cornerHover}px 0 no-repeat;
 	}
 
 	.#{$profession}-icon.selected {
 		width: 32px;
 		height: 32px;
-		background: url("/images/profession/professions_icons.png") #{$cornerSelected}px 0;
+		background: url("/images/profession/professions_icons.png") #{$cornerSelected}px 0 no-repeat;
 	}
 }

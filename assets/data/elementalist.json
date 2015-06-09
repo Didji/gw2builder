@@ -1,0 +1,362 @@
+{
+  "specializations": {
+    "1": {
+      "name": "Fire Magic",
+      "minor": {
+        "1": {
+          "name": "Flame Barrier",
+          "desc": "Gain Fire Aura when you attune to fire."
+        },
+        "2": {
+          "name": "Sunspot",
+          "desc": "Inflict damage at your location when you attune to fire."
+        },
+        "3": {
+          "name": "Burning Rage",
+          "desc": "Deal more damage to burning foes."
+        }
+      },
+      "adept": {
+        "1": {
+          "name": "Burning Precision",
+          "desc": "Critical hits have a chance to cause burning and burning lasts longer."
+        },
+        "2": {
+          "name": "Conjurer",
+          "desc": "Gain a Fire Aura when an ally picks up a conjurer weapon or you use a signet; Conjure weapons have more charges."
+        },
+        "3": {
+          "name": "Power Overwhelming",
+          "desc": "Gain condition damage based on your power."
+        }
+      },
+      "master": {
+        "1": {
+          "name": "Pyromancer's Training",
+          "desc": "Deal more damage while attuned to fire. Reduces recharge on all fire weapon skills."
+        },
+        "2": {
+          "name": "One with Fire",
+          "desc": "Fire Aura's you apply last longer and grant might when applied."
+        },
+        "3": {
+          "name": "Burning Fire",
+          "desc": "Use Cleansing Fire automatically when you have a number of conditions on you. Cantrips grant you might when used."
+        }
+      },
+      "grandmaster": {
+        "1": {
+          "name": "Blinding Ashes",
+          "desc": "Blind foes that you burn."
+        },
+        "2": {
+          "name": "Persisting Flames",
+          "desc": "Blast finishers you execute on fire fields grant fury. Fire fields last longer. Create a Lava Font when you go down."
+        },
+        "3": {
+          "name": "Pyromancer's Puissance",
+          "desc": "Each skill you use while attuned to fire grants you might."
+        }
+      }
+    },
+    "2": {
+      "name": "Air Magic",
+      "minor": {
+        "1": {
+          "name": "Zephyr's Speed",
+          "desc": "Move faster while attuned to air."
+        },
+        "2": {
+          "name": "Lightning Strike",
+          "desc": "Strike your foe with lightning."
+        },
+        "3": {
+          "name": "Weak Spot",
+          "desc": "Chance to cause vulnerability on critical hits."
+        }
+      },
+      "adept": {
+        "1": {
+          "name": "Zephyr's Boon",
+          "desc": "Auras Grant fury and swiftness when applied."
+        },
+        "2": {
+          "name": "One with Air",
+          "desc": "Gain superspeed when attuning to air."
+        },
+        "3": {
+          "name": "Ferocious Winds",
+          "desc": "Gain ferocity based on your healing."
+        }
+      },
+      "master": {
+        "1": {
+          "name": "Inscription",
+          "desc": "Grants a boon associated with your current attunement when you cast a glyph. Reduce Glyph Recharge."
+        },
+        "2": {
+          "name": "Aeromancer's Training",
+          "desc": "Gain Ferocity while attuned to Air. Reduces recharge on all air weapon skills."
+        },
+        "3": {
+          "name": "Tempest Defense",
+          "desc": "Surround yourself with a shocking Aura when disabled (stun, daze, knockback, pull, knockdown, sink, float, fear or launch). Deal more damage to stunned or knocked-down foes."
+        }
+      },
+      "grandmaster": {
+        "1": {
+          "name": "Bolt to the Heart",
+          "desc": "Deal more damage when your foe's health drops below the threshold."
+        },
+        "2": {
+          "name": "Fresh Air",
+          "desc": "Recharge air attunement on critical hit."
+        },
+        "3": {
+          "name": "Lightning Rod",
+          "desc": "Disabling an enemy (stun, daze, knockback, pull, knockdown, sink, float, fear or launch) causes them to be struck by a lightning bolt."
+        }
+      }
+    },
+    "3": {
+      "name": "Water Magic",
+      "minor": {
+        "1": {
+          "name": "Soothing Mist",
+          "desc": "You and nearby allies regenerate health while you are attuned to water."
+        },
+        "2": {
+          "name": "Healing Ripple",
+          "desc": "Heal nearby allies when attuning to water."
+        },
+        "3": {
+          "name": "Aquatic Benevolence",
+          "desc": "Healing done to allies is increased. (25%)"
+        }
+      },
+      "adept": {
+        "1": {
+          "name": "Soothing Ice",
+          "desc": "Gain regeneration and Frost Aura when you are struck by a critical hit."
+        },
+        "2": {
+          "name": "Piercing Shards",
+          "desc": "While attuned to water, your spells deal more damage to vulnerable foes. Vulnerability lasts longer."
+        },
+        "3": {
+          "name": "Stop, Drop, and Roll",
+          "desc": "Dodge rolling removes burning and chilled."
+        }
+      },
+      "master": {
+        "1": {
+          "name": "Soothing Disruption",
+          "desc": "Cantrips grant you regeneration and vigor. Cantrip recharge is reduced."
+        },
+        "2": {
+          "name": "Cleansing Wave",
+          "desc": "Remove a condition from you and your allies when attuning to water."
+        },
+        "3": {
+          "name": "Aquamancer’s Training",
+          "desc": "Deal extra damage when your health is above the threshold. Reduces recharge on all water weapon skills."
+        }
+      },
+      "grandmaster": {
+        "1": {
+          "name": "Cleansing Water",
+          "desc": "Remove a condition when granting regeneration to yourself or an ally."
+        },
+        "2": {
+          "name": "Powerful Aura",
+          "desc": "Auras you gain from weapon skills are also applied to nearby allies."
+        },
+        "3": {
+          "name": "Bountiful Power",
+          "desc": "Deal more damage for each boon on you."
+        }
+      }
+    },
+    "4": {
+      "name": "Earth Magic",
+      "minor": {
+        "1": {
+          "name": "Stone Flesh",
+          "desc": "Gain toughness while attuned to earth."
+        },
+        "2": {
+          "name": "Earthen Blast",
+          "desc": "Damage foes and cripple them for 3 seconds when attuning to earth."
+        },
+        "3": {
+          "name": "Geomancer's Defense",
+          "desc": "You take less damage from foes within close range."
+        }
+      },
+      "adept": {
+        "1": {
+          "name": "Armor of Earth",
+          "desc": "Gain Armor of Earth when your health drops below the threshold."
+        },
+        "2": {
+          "name": "Serrated Stones",
+          "desc": "Bleeds you apply last longer; deal more damage to bleeding foes."
+        },
+        "3": {
+          "name": "Elemental Shielding",
+          "desc": "Cast protection when applying an aura to yourself or an ally."
+        }
+      },
+      "master": {
+        "1": {
+          "name": "Strength of Stone",
+          "desc": "Gain condition damage based on your toughness."
+        },
+        "2": {
+          "name": "Rock Solid",
+          "desc": "Grant stability to nearby allies when attuning to earth."
+        },
+        "3": {
+          "name": "Geomancer's Training",
+          "desc": "You recover from crippled, immobilized, and chilled faster. Reduces recharge on all earth weapon skills."
+        }
+      },
+      "grandmaster": {
+        "1": {
+          "name": "Diamond Skin",
+          "desc": "Conditions cannot be applied to you when your health is above the threshold."
+        },
+        "2": {
+          "name": "Written in Stone",
+          "desc": "Maintain the passive effects of signets when you activate them. Reduces recharge of signets."
+        },
+        "3": {
+          "name": "Stone Heart",
+          "desc": "You cannot be critically hit while attuned to earth."
+        }
+      }
+    },
+    "5": {
+      "name": "Arcana",
+      "minor": {
+        "1": {
+          "name": "Arcane Fury",
+          "desc": "Gain fury for 2s when you switch attunements."
+        },
+        "2": {
+          "name": "Lingering Elements",
+          "desc": "Attunement bonuses linger for 5s after leaving that attunement."
+        },
+        "3": {
+          "name": "Arcane Precision",
+          "desc": "Skills have a change to apply a condition on critical hits. Attunements recharge faster."
+        }
+      },
+      "adept": {
+        "1": {
+          "name": "Arcane Energy",
+          "desc": "Arcane skills restore 25 endurance when used and have 20% lower recharges."
+        },
+        "2": {
+          "name": "Renewing Stamina",
+          "desc": "Gain vigor for 5s when you deliver a critical hit."
+        },
+        "3": {
+          "name": "Arcane Abatement",
+          "desc": "Take less damage from falling. Create a spell when you take falling damage, based on your attunement."
+        }
+      },
+      "master": {
+        "1": {
+          "name": "Arcane Resurrection",
+          "desc": "You have increased revive speed. When you revive an ally, you and the revived ally gain an aura based on your attunement."
+        },
+        "2": {
+          "name": "Elemental Contingency",
+          "desc": "Gain a boon when you are struck, based on your current attunement."
+        },
+        "3": {
+          "name": "Final Shielding",
+          "desc": "Create an Arcane Shield for 5s when your health drops below the threshold (25s)."
+        }
+      },
+      "grandmaster": {
+        "1": {
+          "name": "Evasive Arcane",
+          "desc": "Create an attunement-based spell at end of your dodge."
+        },
+        "2": {
+          "name": "Elemental Surge",
+          "desc": "Based on your current attunement, arcane skills cause a condition to foes that they hit. Gain 150 more ferocity for 15s when you use an arcane skill."
+        },
+        "3": {
+          "name": "Elemental Attunement",
+          "desc": "When attuning to an element, you and nearby allies gain a boon."
+        }
+      }
+    },
+    "6": {
+      "name": "Tempest",
+      "elite": 1,
+      "minor": {
+        "1": {
+          "name": "TBD",
+          "desc": "TBD"
+        },
+        "2": {
+          "name": "TBD",
+          "desc": "TBD"
+        },
+        "3": {
+          "name": "TBD",
+          "desc": "TBD"
+        }
+      },
+      "adept": {
+        "1": {
+          "name": "TBD",
+          "desc": "TBD"
+        },
+        "2": {
+          "name": "TBD",
+          "desc": "TBD"
+        },
+        "3": {
+          "name": "TBD",
+          "desc": "TBD"
+        }
+      },
+      "master": {
+        "1": {
+          "name": "TBD",
+          "desc": "TBD"
+        },
+        "2": {
+          "name": "TBD",
+          "desc": "TBD"
+        },
+        "3": {
+          "name": "TBD",
+          "desc": "TBD"
+        }
+      },
+      "grandmaster": {
+        "1": {
+          "name": "TBD",
+          "desc": "TBD"
+        },
+        "2": {
+          "name": "TBD",
+          "desc": "TBD"
+        },
+        "3": {
+          "name": "TBD",
+          "desc": "TBD"
+        }
+      }
+    }
+  },
+  "skills": {},
+  "weapons": {},
+  "stats": {}
+}

@@ -1,0 +1,362 @@
+{
+  "specializations": {
+    "1": {
+      "name": "Zeal",
+      "minor": {
+        "1": {
+          "name": "Zealot’s Speed",
+          "desc": "Create a Symbol of Wrath when you are struck while below the health threshold (50%)"
+        },
+        "2": {
+          "name": "Symbolic Exposure",
+          "desc": "Symbols apply vulnerability to foes."
+        },
+        "3": {
+          "name": "Symbolic Power",
+          "desc": "Symbols have increased damage and a chance to burn enemies."
+        }
+      },
+      "adept": {
+        "1": {
+          "name": "Wrathful Spirit",
+          "desc": "Aegis give retaliation when it ends."
+        },
+        "2": {
+          "name": "Fiery Wrath",
+          "desc": "Increases 10% damage against burning foes."
+        },
+        "3": {
+          "name": "Zealous Scepter",
+          "desc": "Gain might when your justice passive effect triggers, while wielding a scepter"
+        }
+      },
+      "master": {
+        "1": {
+          "name": "Binding Jeopardy",
+          "desc": "Immobilizing or blinding a foe also applies vulnerability to them."
+        },
+        "2": {
+          "name": "Zealous Blade",
+          "desc": "Attacks with your greatsword deal 5% extra damage and heal you. Greatsword abilities have reduced recharge."
+        },
+        "3": {
+          "name": "Kindled Zeal",
+          "desc": "Gain 13% condition damage based on your power."
+        }
+      },
+      "grandmaster": {
+        "1": {
+          "name": "Expeditious Spirit",
+          "desc": "Spirit weapons burn foes they strike. Spirit weapons summon and command skills recharge 20% faster."
+        },
+        "2": {
+          "name": "Shattered Aegis",
+          "desc": "When an aegis you applied is removed, it damages nearby foes."
+        },
+        "3": {
+          "name": "Symbolic Avenger",
+          "desc": "You deal 20% more damage to enemies standing in your symbols"
+        }
+      }
+    },
+    "2": {
+      "name": "Radiance",
+      "minor": {
+        "1": {
+          "name": "Justice is Blind",
+          "desc": "When activating Virtue of Justice, nearby foes are blinded"
+        },
+        "2": {
+          "name": "Renewed Justice",
+          "desc": "Virtue of Justice is renewed when you kill a foe."
+        },
+        "3": {
+          "name": "Radiant Power",
+          "desc": "Attacks against burning foes have an increased chance (25%) to critically hit."
+        }
+      },
+      "adept": {
+        "1": {
+          "name": "Healer’s Retribution",
+          "desc": "Gain retaliation when using a heal skill."
+        },
+        "2": {
+          "name": "Inner Fire",
+          "desc": "Gain Fury when you strike a foe that has burning stacks over the threshold (3)."
+        },
+        "3": {
+          "name": "Right-Hand Strength",
+          "desc": "Critical-hit chance with one-handed weapon is increased by 15%. Sword skills recharge 20% faster."
+        }
+      },
+      "master": {
+        "1": {
+          "name": "Wrath of Justice",
+          "desc": "Striking an enemy with Justice’s active effect triggers Signet of Wrath"
+        },
+        "2": {
+          "name": "Retribution",
+          "desc": "Gain 10% increased damage while under the effects of retaliation"
+        },
+        "3": {
+          "name": "Radiant Fire",
+          "desc": "Gain Zealot’s Flame when you critically hit. Burning duration is increased 20%. Torch abilities recharge 20% faster."
+        }
+      },
+      "grandmaster": {
+        "1": {
+          "name": "Amplified Wrath",
+          "desc": "Burning damage is increased by 33%. Burn enemies whose attacks you block."
+        },
+        "2": {
+          "name": "Perfect Inscriptions",
+          "desc": "Gain light aura when activating a signet. Signets recharge 20% faster and have 20% improved passive effects."
+        },
+        "3": {
+          "name": "Radiant Retaliation",
+          "desc": "Retaliation damage scales from condition damage instead of power."
+        }
+      }
+    },
+    "3": {
+      "name": "Valor",
+      "minor": {
+        "1": {
+          "name": "Valorous Defense",
+          "desc": "Gain aegis when you are struck while below the health threshold (50%)"
+        },
+        "2": {
+          "name": "Courageous Return",
+          "desc": "Virtue of Courage is recharged when you resurrect an ally or rally."
+        },
+        "3": {
+          "name": "Might of the Protector",
+          "desc": "Gain might when you block an attack."
+        }
+      },
+      "adept": {
+        "1": {
+          "name": "Strength of the Fallen",
+          "desc": "Lose conditions at a set time interval (10s). Health degenerates 33% slower while downed."
+        },
+        "2": {
+          "name": "Smiter’s Boon",
+          "desc": "Smite Conditions when you use a healing ability."
+        },
+        "3": {
+          "name": "Focus Mastery",
+          "desc": "Gain protection when using a focus ability. Focus abilities have 20% reduced recharge."
+        }
+      },
+      "master": {
+        "1": {
+          "name": "Stalwart Defender",
+          "desc": "Gain 180 additional toughness while wielding a shield. Shield ability recharge is reduced by 20%."
+        },
+        "2": {
+          "name": "Strength in Numbers",
+          "desc": "Nearby allies gain toughness based on your effective level."
+        },
+        "3": {
+          "name": "Communal Defenses",
+          "desc": "Grant aegis to allies when you block an attack."
+        }
+      },
+      "grandmaster": {
+        "1": {
+          "name": "Altruistic Healing",
+          "desc": "Applying a boon to allies heals you."
+        },
+        "2": {
+          "name": "Monk’s Focus",
+          "desc": "Using a meditation skill heals you and grant fury to allies in a radius. Meditation skills have reduced recharge."
+        },
+        "3": {
+          "name": "Retributive Armor",
+          "desc": "Gain toughness for a period of time when blocking an attack. Gain 15% ferocity based on your toughness."
+        }
+      }
+    },
+    "4": {
+      "name": "Honor",
+      "minor": {
+        "1": {
+          "name": "Vigorous Precision",
+          "desc": "Gain vigor when you deliver a critical hit."
+        },
+        "2": {
+          "name": "Selfless Daring",
+          "desc": "The end of your dodge roll heals nearby allies."
+        },
+        "3": {
+          "name": "Purity of Body",
+          "desc": "Your Virtue of Resolve passive effect also regenerates endurance."
+        }
+      },
+      "adept": {
+        "1": {
+          "name": "Invigorated Bulwark",
+          "desc": " Gain increased healing power for a period of time each time you block an attack while wielding a mace. Stacks up to 10 times. Mace abilities have reduced recharge."
+        },
+        "2": {
+          "name": "Protective Reviver",
+          "desc": "Activate Shield of Absorption when you begin reviving an ally. When you successfully revive an ally, you both gain aegis, protection and regeneration."
+        },
+        "3": {
+          "name": "Protector’s Impact ",
+          "desc": "Create a Symbol of Protection when you take falling damage. You take 50% less damage when falling."
+        }
+      },
+      "master": {
+        "1": {
+          "name": "Honorable Staff",
+          "desc": "Boon duration is increased while wielding a staff. Staff recharges are reduced by 20%."
+        },
+        "2": {
+          "name": "Pure of Heart",
+          "desc": "Aegis heals when it blocks an attack."
+        },
+        "3": {
+          "name": "Empowering Might",
+          "desc": "You and nearby allies gain might when you land a critical hit."
+        }
+      },
+      "grandmaster": {
+        "1": {
+          "name": "Pure of Voice",
+          "desc": "Allies affected by shouts have conditions converted to boons. Shout abilities have their recharge reduced by 20%."
+        },
+        "2": {
+          "name": "Writ of Persistence",
+          "desc": "Symbols last longer, are larger, and heal allies."
+        },
+        "3": {
+          "name": "Force of Will",
+          "desc": "You have 300 increased vitality. Healing effectiveness to other allies is increased based on 10% of your vitality."
+        }
+      }
+    },
+    "5": {
+      "name": "Virtues",
+      "minor": {
+        "1": {
+          "name": "Inspired Virtue",
+          "desc": "Virtues now also apply the following boons to allies when activate: Justice might. Resolve: regeneration. Courage: protection."
+        },
+        "2": {
+          "name": "Virtue of Retribution",
+          "desc": "Gain retaliation when you activate a Virtue. Retaliation you apply also lasts longer."
+        },
+        "3": {
+          "name": "Power of the Virtuous",
+          "desc": "Deal 1% extra damage for each boon you have. Virtues recharge 15% faster."
+        }
+      },
+      "adept": {
+        "1": {
+          "name": "Unscathed Contender",
+          "desc": "Deal 20% more damage while under the effects of aegis."
+        },
+        "2": {
+          "name": "Retaliatory Subconscious ",
+          "desc": "Gain retaliation and aegis whenever you are disabled."
+        },
+        "3": {
+          "name": "Master of Consecrations",
+          "desc": "Consecrations last 20% longer and have 20% reduced recharge."
+        }
+      },
+      "master": {
+        "1": {
+          "name": "Supreme Justice",
+          "desc": "Virtue of Justice causes burning more frequently. When activating Virtue of Justice, the burn duration is increased."
+        },
+        "2": {
+          "name": "Absolute Precision",
+          "desc": "Activating Virtue of Resolve removes conditions from nearby allies. Virtue of Resolve’s passive effect is stronger."
+        },
+        "3": {
+          "name": "Virtuous Mallet",
+          "desc": "Hammer attacks have a 33% chance to slow enemies. Hammer abilities have reduced recharge."
+        }
+      },
+      "grandmaster": {
+        "1": {
+          "name": "Permeating Wrath",
+          "desc": "Virtue of Justice’s passive effect no longer burns your target, but instead burns the area an area around you each time it activates."
+        },
+        "2": {
+          "name": "Battle Presence",
+          "desc": "Nearby allies gain Virtue of Resolve’s passive effect."
+        },
+        "3": {
+          "name": "Indomitable Courage",
+          "desc": "Activating Virtue of Courage breaks stun and grants stability to affected allies. Virtue of Courage’s passive effect triggers more frequently."
+        }
+      }
+    },
+    "6": {
+      "name": "Dragonhunter",
+      "elite": 1,
+      "minor": {
+        "1": {
+          "name": "Virtuous Action",
+          "desc": "The Guardian's resolve has further increased, allowing virtues to be manifested as physical aspects."
+        },
+        "2": {
+          "name": "Defender's Dogma",
+          "desc": "Blocking an attack causes justice to reach its maximum charge."
+        },
+        "3": {
+          "name": "Pure of Sight",
+          "desc": "Deal bonus damage to enemies beyond the range threshold."
+        }
+      },
+      "adept": {
+        "1": {
+          "name": "Piercing Light",
+          "desc": "Trap hits bleed enemies."
+        },
+        "2": {
+          "name": "Zealot's Aggression",
+          "desc": "Deal extra damage to crippled enemies."
+        },
+        "3": {
+          "name": "Soaring Devastation",
+          "desc": "Wings of resolve deliver an attack upon landing."
+        }
+      },
+      "master": {
+        "1": {
+          "name": "Hunter's Determination",
+          "desc": "True shot grants stability for each enemy struck."
+        },
+        "2": {
+          "name": "Bulwark",
+          "desc": "Shield of courage is larger and lasts longer."
+        },
+        "3": {
+          "name": "Dulled Senses",
+          "desc": "Enemies you knock back are crippled."
+        }
+      },
+      "grandmaster": {
+        "1": {
+          "name": "Hunter's Fortification",
+          "desc": "Apply protection in an area when activating a virtue."
+        },
+        "2": {
+          "name": "Heavy Light",
+          "desc": "Longbow arrows knock back when enemies are within the range threshold."
+        },
+        "3": {
+          "name": "Big Game Hunter",
+          "desc": "Striking an enemy tethered by your spear of justice causes vulnerability and increases damage dealt."
+        }
+      }
+    }
+  },
+  "weapons": {},
+  "skills": {},
+  "stats": {}
+}
