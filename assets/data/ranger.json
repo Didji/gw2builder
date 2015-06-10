@@ -1,357 +1,357 @@
 {
   "specializations": {
     "1": {
-      "name": "",
+      "name": "Marksmanship",
       "minor": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Opening Strike",
+          "desc": "Cause vulnerability with your first strike when entering combat."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Alpha Training",
+          "desc": "Pets have Opening Strike."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Precise Strike",
+          "desc": "Opening Strike always critically hit."
         }
       },
       "adept": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Enlargement",
+          "desc": "Use Signet of the Wild when your health drops below the threshold (25%)."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Predator’s Instinct",
+          "desc": "Apply cripple to foes you hit while they are below the health threshold (50%)."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Beastmaster’s Bond",
+          "desc": "Cast Call of the Wild when you swap pets."
         }
       },
       "master": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Beastmaster’s Might",
+          "desc": "Activating a signet refreshes your opening strike and grant might to you and your pet. Signets recharge 20% faster."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Steady Focus",
+          "desc": "Damage is increased by 10% while endurance is full."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Moment of Clarity",
+          "desc": "Gain an attack of opportunity for you and your pet on interrupting a foe. Daze and stun durations that you inflict last 100% longer."
         }
       },
       "grandmaster": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Predator’s Onslaught",
+          "desc": "You and your pet deal 10% bonus damage to enemies suffering from movement-impeding conditions or are dazed."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Remorseless",
+          "desc": "Regain Opening Strike whenever you gain fury. Opening Strike deals 25% more damage."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Lead the Wind",
+          "desc": "While wielding a longbow, your attack speed is increased by 10% and your arrows pierce. Longbow skills recharge 20% faster."
         }
       }
     },
     "2": {
-      "name": "",
+      "name": "Skirmishing",
       "minor": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Tail Wind",
+          "desc": "Gain swiftness when swapping weapons in combat."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Furious Grip",
+          "desc": "Gain fury when swapping weapons in combat."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Hunter’s Tactics",
+          "desc": "Deal 10% more damage while attacking from behind or the side."
         }
       },
       "adept": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Sharpened Edges",
+          "desc": "You and your pet have a 66% chance to cause bleeding on critical hits."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Most Dangerous Game",
+          "desc": "While your health is below the threshold (50%) your attacks gain power."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Trapper’s Defense",
+          "desc": "Create a Spike Trap while reviving an ally."
         }
       },
       "master": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Primal Reflexes",
+          "desc": "When you successfully evade an attack gain vigor."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Spotter",
+          "desc": "Increases precision of nearby allies by 150."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Trapper’s Expertise",
+          "desc": "Conditions caused by traps last 100% longer. Your traps recharge 20% faster and affect a larger area."
         }
       },
       "grandmaster": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Quick Draw",
+          "desc": "When you swap weapons your next weapon skill used recharges 66% faster."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Light on your Feet",
+          "desc": "Damage and condition duration is increased by 10% while moving. Shortbow skills recharge 20% faster and your arrows pierce."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Strider’s Defense",
+          "desc": "50% chance to destroy projectiles while executing a melee attack. Sword skills recharge 20% faster and you deal 10% more damage while wielding a sword."
         }
       }
     },
     "3": {
-      "name": "",
+      "name": "Wilderness Survival",
       "minor": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Natural Vigor",
+          "desc": "Increases 25% endurance regeneration."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Companion’s Defense",
+          "desc": "You and your pet gain protection when you dodge roll."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Bark Skin",
+          "desc": "You and your pet take 50% less damage while your health is above the threshold (90%)."
         }
       },
       "adept": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Soften the Fall",
+          "desc": "Create Muddy Terrain when you take falling damage. You take 50% less damage from falling."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Ambidexterity",
+          "desc": "Gain 150 condition damage while wielding a torch or dagger. Torch and Dagger skills recharge 20% faster."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Expertise Training",
+          "desc": "Pets deal 350 extra condition damage and have their condition durations increased by 20%."
         }
       },
       "master": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Oakheart Salve",
+          "desc": "Gain regeneration when you suffer from bleeding, poison or burning. While you have regeneration you take 5% reduced damage."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Peak Strength",
+          "desc": "You and your pet deal 10% more damage while your health is above the threshold (90%)."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Shared Anguish",
+          "desc": "Incoming disabling conditions are transferred to your pet instead."
         }
       },
       "grandmaster": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Empathic Bond",
+          "desc": "Pets periodically take 3 condition from you (10s)."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Wilderness Knowledge",
+          "desc": "Use Sharpening Stone when you strike a foe below the health threshold (75%). Survival skills have 20% reduced recharge and remove 2 conditions."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Poison Master",
+          "desc": "After swapping pets, your pet’s first attack will inflict poison; your poison damage is increased by 50%."
         }
       }
     },
     "4": {
-      "name": "",
+      "name": "Nature Magic",
       "minor": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Rejuvenation",
+          "desc": "Gain regeneration when you health drops below the threshold (75%)."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Fortifying Bond",
+          "desc": "Any boon you get is shared with your pet."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Lingering Magic",
+          "desc": "Boons applied by your and your pets last longer."
         }
       },
       "adept": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Bountiful Hunter",
+          "desc": "You and your pet deals 1% more damage per boon on you."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Nature’s Wrath",
+          "desc": "Gain 10% power based on your healing. Your pet gains extra stats."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Healer’s Celerity",
+          "desc": "Grant swiftness to yourself and your ally when you revive them. Increase revive sped by 10%."
         }
       },
       "master": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Evasive Purity",
+          "desc": "Dodging removes blindness, cripple, and poison from you."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Vigorous Training",
+          "desc": "Pets grant vigor to nearby allies when you swap pets."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Windborne Notes",
+          "desc": "Call of the Wild also grants Regeneration and Warhorn skills recharge 20% faster."
         }
       },
       "grandmaster": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Nature’s Vengeance",
+          "desc": "Activated skills of spirits are larger and trigger when the spirit is killed."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Protective Ward",
+          "desc": "When you receive damage nearby foes are weakened and you gain protection"
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Invigorating Bond",
+          "desc": "Your pet heals allies in an area when executing a command [F2] ability."
         }
       }
     },
     "5": {
-      "name": "",
+      "name": "Beastmastery",
       "minor": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Instinctual Bond",
+          "desc": "When you are downed, your pet gains quickness."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Loud Whistle",
+          "desc": "Reduce recharge on pet skills and swapping by 20%."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Pet’s Prowess",
+          "desc": "Pets move 30% faster and deal more damage on critical hits."
         }
       },
       "adept": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Companion’s Might",
+          "desc": "Your critical hits grant might to your pet."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Rending Attacks",
+          "desc": "Pets inflict bleeding when they critically hit with their basic attacks."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Resounding Timbre",
+          "desc": "Shouts apply regeneration and swiftness to allies. Reduces recharge on shouts by 20%."
         }
       },
       "master": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Wilting Strike",
+          "desc": "Activated attack abilities for pets cause weakness. This effect will only once on each target affected by abilities."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Two-handed Training",
+          "desc": "Greatsword and spear damage is increased by 5% and those skills recharge 20% faster. Greatsword and spear attacks have a 50% chance to grant fury on hit."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Natural Healing",
+          "desc": "Your pet gains natural health regeneration and improved healing (+350)."
         }
       },
       "grandmaster": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Beastly Warden",
+          "desc": "Your pet taunts foes near them when executing a command [F2] ability."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Zephyr’s Speed",
+          "desc": "You and your pet gain might and quickness when you swap pets."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Honed Axes",
+          "desc": "Gain 150 ferocity while wielding an axe in your main hand. Winter’s Bite is now AoE. Axe skills recharge 20% faster."
         }
       }
     },
     "6": {
-      "name": "",
+      "name": "TBD",
       "elite": 1,
       "minor": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "TBD",
+          "desc": "TBD"
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "TBD",
+          "desc": "TBD"
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "TBD",
+          "desc": "TBD"
         }
       },
       "adept": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "TBD",
+          "desc": "TBD"
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "TBD",
+          "desc": "TBD"
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "TBD",
+          "desc": "TBD"
         }
       },
       "master": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "TBD",
+          "desc": "TBD"
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "TBD",
+          "desc": "TBD"
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "TBD",
+          "desc": "TBD"
         }
       },
       "grandmaster": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "TBD",
+          "desc": "TBD"
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "TBD",
+          "desc": "TBD"
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "TBD",
+          "desc": "TBD"
         }
       }
     }

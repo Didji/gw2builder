@@ -1,357 +1,357 @@
 {
   "specializations": {
     "1": {
-      "name": "",
+      "name": "Strength",
       "minor": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Reckless Dodge",
+          "desc": "Damage foes at end of a dodge roll."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Building Momentum",
+          "desc": "Burst skills restore 15 endurance on hit."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Stick and Move",
+          "desc": "Get a 10% damage bonus when endurance is not full."
         }
       },
       "adept": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Death from Above",
+          "desc": "Damage and launch foes when you take falling damage. Take 50% less damage from falling."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Restorative Strength",
+          "desc": "Using a heal skill remove conditions."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Physical Training",
+          "desc": "Physical skills deal more damage based on how much adrenaline you have. Physical skills recharge 20% faster."
         }
       },
       "master": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Body Blow",
+          "desc": "Stuns, Dazes, Knockbacks, Pull, Pushes and Launches inflict bleeding and weakness."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Forceful Greatsword",
+          "desc": "Gain might on a critical hit with a greatsword or spear. Greatsword and spear skills deal 10% more damage and recharge 20% faster."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Great Fortitude",
+          "desc": "A 10% of power is given as a bonus to vitality."
         }
       },
       "grandmaster": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Berserker’s Power",
+          "desc": "Gain a damage boost when you use a burst skill. Boost power increases based how much adrenaline you have built."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Distracting Strikes",
+          "desc": "Gain might and cause confusion when you interrupt a foes skill."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Axe Mastery",
+          "desc": "Critical hits with an axe gain extra adrenaline. Gain +150 Ferocity for each axe you are wielding. Reduce recharge on axe skills by 20%."
         }
       }
     },
     "2": {
-      "name": "",
+      "name": "Arms",
       "minor": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Precise Strikes",
+          "desc": "33% chance to cause bleeding on critical hits."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Unsuspecting Foe",
+          "desc": "Increased 50% critical-hit chance against stunned foes."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Attack of Opportunity",
+          "desc": "Increases 10% damage to bleeding foes and Bleeds you apply last 50% longer."
         }
       },
       "adept": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Berserker’s Fury",
+          "desc": "Gain adrenaline while in combat. Gain Fury when you strike a foe below a health threshold (25%)."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Signet Mastery",
+          "desc": "Signets grant a stacking Precision buff on use and recharge 20% faster. Cast Signet of Might whenever you strike a foe below the health threshold (50%)."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Deep Strike",
+          "desc": "Fury you apply also grants 150 condition damage."
         }
       },
       "master": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Rending Strikes",
+          "desc": "You have a 33% chance to cause vulnerability and gain swiftness on critical hits."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Opportunist",
+          "desc": "Gain fury when you immobilize a target."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Blademaster",
+          "desc": "Increases sword critical chance by 10%. Effect doubled vs bleeding foes. Reduce recharge on sword skills by 20%."
         }
       },
       "grandmaster": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Burst Precision",
+          "desc": "Burst skills have 100% increased critical chance."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Furious",
+          "desc": "Critical hits grant bonus adrenaline and gain a stacking condition damage buff."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Dual Wielding",
+          "desc": "Deal 5% more damage and your attack speed is increased by 15% when wielding a sword, axe or mace in your offhand."
         }
       }
     },
     "3": {
-      "name": "",
+      "name": "Defense",
       "minor": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Thick Skin",
+          "desc": "Gain extra armor while your health is above the threshold (90%)."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Adrenal Health",
+          "desc": "Regenerate health based on adrenaline level."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Spiked Armor",
+          "desc": "Gain retaliation when you block or are struck by a critical hit. Retaliation gives you 150 bonus toughness."
         }
       },
       "adept": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Shield Master",
+          "desc": "Reflect missiles whenever you are blocking. Gain might when you block an attack. Shield skills recharge 20% faster."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Dogged March",
+          "desc": "Incoming movement-impeding conditions have their durations reduced. Gain regeneration when you are affected by one of these conditions."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Armored Attack",
+          "desc": "Gain 7% power based on your toughness."
         }
       },
       "master": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Last Stand",
+          "desc": "Activates Balanced Stance when you are dazed, knocked down, launched, pushed back, pulled, or stunned. increases stance duration by 25% and gain vigor when using a stance."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Cull the Weak",
+          "desc": "Increases 5% damage to wakened foes. Striking a foe below the 25% health threshold inflicts weakness."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Cleansing Ire",
+          "desc": "Gain adrenaline when hit. Remove a condition for every bar of adrenaline spent when you hit with a burst skill."
         }
       },
       "grandmaster": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Sundering Mace",
+          "desc": "Mace skills deal 10% more damage and cause vulnerability to disabled foes. Reduces 20% recharge on mace skills."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Defy Pain",
+          "desc": "Activate Endure Pain when you are struck while below the health threshold (25%)"
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Rousing Resilience",
+          "desc": "Gain toughness when you break out a stun."
         }
       }
     },
     "4": {
-      "name": "",
+      "name": "Tactics",
       "minor": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Determined Revival",
+          "desc": "Gain extra toughness per level while reviving."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Reviver’s Might",
+          "desc": "Grant might to nearby allies when you revive someone."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Inspiring Presence",
+          "desc": "Boon duration and outgoing healing increased by 10%."
         }
       },
       "adept": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Leg Specialist",
+          "desc": "Immobilize a target when you cripple them with a skill."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Quick Breathing",
+          "desc": "Reduce 20% recharge on warhorn skills. Warhorn skills convert conditions to boons."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Empowered",
+          "desc": "Increases 1% damage for every boon on you."
         }
       },
       "master": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Shrug It Off",
+          "desc": "Use Shake it Off automatically when you have a number of conditions on you."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Burning Arrows",
+          "desc": "Dual shot causes burning and Longbow skills recharge 20% faster."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Empower Allies",
+          "desc": "Increase power for nearby allies."
         }
       },
       "grandmaster": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Powerful Synergy",
+          "desc": "When you activate a leap combo finisher it activates twice."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Vigorous Shouts",
+          "desc": "Shouts heal allies and grant adrenaline. Shouts recharge 20% faster,"
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Phalanx Strength",
+          "desc": "When you grant yourself might, grant it to nearby allies as well."
         }
       }
     },
     "5": {
-      "name": "",
+      "name": "Discipline",
       "minor": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Versatile Rage",
+          "desc": "Gain 5 adrenaline on weapon swap."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Fast Hands",
+          "desc": "Weapon-swapping recharges 5s faster."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Versatile Power",
+          "desc": "Gain might on weapon swap. Burst skills recharge 15% faster."
         }
       },
       "adept": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Crack Shot",
+          "desc": "Rifle and harpoon gun shots pierce. Reduces recharge on rifle and harpoon gun skills by 20%."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Warrior’s Sprint",
+          "desc": "Run 25% faster while wielding melee weapons. Movement skills break immobilize."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Vengeful Return",
+          "desc": "Vengeance has a 100% increased chance to rally."
         }
       },
       "master": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Inspiring Battle Standard",
+          "desc": "Banners also grant regeneration to allies."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Destruction of the Empowered",
+          "desc": "Gain 3% bonus damage per boon on your target."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Brawler’s Recovery",
+          "desc": "Remove conditions when you swap weapons"
         }
       },
       "grandmaster": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Merciless Hammer",
+          "desc": "Hammer damage is increased by 20% when a foe is disabled. Reduces recharge by 20% on hammer skills."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Burst Mastery",
+          "desc": "Burst skills deal 7% more damage and restore adrenaline on use."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Heightened Focus",
+          "desc": "Gain quickness when you strike a foe that is below the health threshold (50%)."
         }
       }
     },
     "6": {
-      "name": "",
+      "name": "TBD",
       "elite": 1,
       "minor": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "TBD",
+          "desc": "TBD"
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "TBD",
+          "desc": "TBD"
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "TBD",
+          "desc": "TBD"
         }
       },
       "adept": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "TBD",
+          "desc": "TBD"
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "TBD",
+          "desc": "TBD"
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "TBD",
+          "desc": "TBD"
         }
       },
       "master": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "TBD",
+          "desc": "TBD"
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "TBD",
+          "desc": "TBD"
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "TBD",
+          "desc": "TBD"
         }
       },
       "grandmaster": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "TBD",
+          "desc": "TBD"
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "TBD",
+          "desc": "TBD"
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "TBD",
+          "desc": "TBD"
         }
       }
     }

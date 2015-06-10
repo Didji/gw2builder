@@ -1,357 +1,357 @@
 {
   "specializations": {
     "1": {
-      "name": "",
+      "name": "Deadly Arts",
       "minor": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Serpent’s Touch",
+          "desc": "Stealing inflicts poison. Your attacks while in the downed state apply poison."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Lotus Poison",
+          "desc": "Weaken targets when you poison them."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Exposed Weakness",
+          "desc": "Deal 10% more damage if your target has a condition."
         }
       },
       "adept": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Dagger Training",
+          "desc": "Dagger damage is increased by 5% to poisoned foes."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Mug",
+          "desc": "Deal damage and gain life when stealing. This attack cannot critically hit enemies."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Trappers Respite",
+          "desc": "Drop a needle trap when you use a healing skill."
         }
       },
       "master": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Resourceful Trapper",
+          "desc": "Stealing reduces cooldown of currently recharging traps by 10s."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Panic Strike",
+          "desc": "Striking a foe that is below the health threshold (50%) immobilize them."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Revealed Training",
+          "desc": "Gain 200 extra power while you are revealed."
         }
       },
       "grandmaster": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Potent Poison",
+          "desc": "Increased poison duration by 33%. Poison deals 50% increased damage."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Improvisation",
+          "desc": "You can use stolen items twice. One random skill category is immediately recharged when you steal."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Executioner",
+          "desc": "Deal 20% extra damage when your target is below the health threshold (50%)."
         }
       }
     },
     "2": {
-      "name": "",
+      "name": "Critical Strikes",
       "minor": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Keen Observer",
+          "desc": "Critical-hit chance is increased by 5% 3while your health is above the threshold (90%)."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Unrelenting Strikes",
+          "desc": "Critical hit damage is increased against foes whose health is below the threshold (33%)."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "First Strikes",
+          "desc": "Critical damage is increased by 10% while your current initiative is over the threshold (6)."
         }
       },
       "adept": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Side Strike",
+          "desc": "Gain 7% bonus critical-hit chance when hitting a foe from behind or the side."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Signet of Power",
+          "desc": "Gain might when activating a signet. Signet recharge is reduced."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Combo Critical Chance",
+          "desc": "Duel wield skills have 5% increased critical-hit chance."
         }
       },
       "master": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Sundering Strikes",
+          "desc": "Critical hits have a 50% chance to cause vulnerability."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Practiced Tolerance",
+          "desc": "Gain 10% vitality based on your precision."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Ankle Shots",
+          "desc": "Critical hits with pistols have a 60% chance to cripple foes. Pistol strikes deal 10% increased damage to crippled foes."
         }
       },
       "grandmaster": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Ricochet",
+          "desc": "Pistol shots have 50% chance to bounce to an additional target. Pistol range is increased by 150."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Hidden Killer",
+          "desc": "Gain 100% bonus critical-hit chance while in stealth."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Invigorating Precision",
+          "desc": "You are healed for 15% of outgoing critical hit damage."
         }
       }
     },
     "3": {
-      "name": "",
+      "name": "Shadow Arts",
       "minor": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Last Refuge",
+          "desc": "Use Blinding Powder when your health reaches a certain threshold (25%)"
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Meld with Shadows",
+          "desc": "Stealth skills last longer (1s)"
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Resilience of Shadows",
+          "desc": "Stealth effects that you apply reduce incoming attack damage by 50%"
         }
       },
       "adept": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Merciful Ambush",
+          "desc": "Stealth yourself and your target when reviving an ally. You revive allies 10% faster."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Concealed Defeat",
+          "desc": "Create a Smoke Screen when downed. Deception abilities recharge 20% faster."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Shadow’s Embrace",
+          "desc": "Remove 1 conditions periodically (3s) while in stealth."
         }
       },
       "master": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Shadow Protector",
+          "desc": "When you grant stealth to an ally, they gain regeneration. This effect does not trigger if your ally already has regeneration."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Descent of Shadows",
+          "desc": "Release a blinding powder when you steal or take falling damage. You take 50% less damage from falling."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Leeching Venoms",
+          "desc": "Gain might when activating a venom. Siphon life from your foe when triggering a venom. This can only occur once per strike."
         }
       },
       "grandmaster": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Cloaked in Shadow",
+          "desc": "Gain stealth blinds nearby foes."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Shadow’s Rejuvenation",
+          "desc": "Regenerate health and initiative while in stealth."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Venomous Aura",
+          "desc": "When you use a venom skill, you apply the effects to all nearby allies as well. Venom recharges are reduced by 20%."
         }
       }
     },
     "4": {
-      "name": "",
+      "name": "Acrobatics",
       "minor": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Expeditious Dodger",
+          "desc": "Gain swiftness upon dodging."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Feline Grace",
+          "desc": "Gain vigor upon successfully evading an attack."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Endless Stamina",
+          "desc": "The effects of vigor on you are enhanced by 20%."
         }
       },
       "adept": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Fleet Shadow",
+          "desc": "Move 50% faster while in stealth."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Vigorous Recovery",
+          "desc": "Gain vigor when using a healing skill."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Pain Response",
+          "desc": "Gain regeneration and remove damaging conditions when struck while below the health threshold (75%)."
         }
       },
       "master": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Guarded Initiation",
+          "desc": "Gain resistance when striking an enemy while your health is full."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Swindler’s Equilibrium",
+          "desc": "Successfully evading an attack while wielding a sword recharges steal by a static amount."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Hard to Catch",
+          "desc": "Break stun and refill endurance when you are disabled."
         }
       },
       "grandmaster": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Assassin’s Reward",
+          "desc": "Heal yourself whenever you use a skill that uses initiative. Heal yourself for each point of initiative spent."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Quick Pockets",
+          "desc": "Gain initiative on swapping weapons while in combat."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Don’t Stop",
+          "desc": "Periodically evade projectile attacks while under effects of swiftness"
         }
       }
     },
     "5": {
-      "name": "",
+      "name": "Trickery",
       "minor": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Kleptomaniac",
+          "desc": "Stealing give you initiative."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Preparedness",
+          "desc": "Increase maximum initiative by 3"
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Lead Attacks",
+          "desc": "Increases 1% damage per initiative. Steal recharges 15% faster."
         }
       },
       "adept": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Uncatchable",
+          "desc": "Leave behind Caltrops when you dodge."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Flanking Strikes",
+          "desc": "Gain haste when attacking a foe from behind or the side."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Thrill of the Crime",
+          "desc": "When you Steal, you and all nearby allies gain fury, might, and swiftness for 10 seconds."
         }
       },
       "master": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Bountiful Theft",
+          "desc": "Stealing grants you and all nearby allies vigor. You rip boons from your target and grant them to nearby allies."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Trickster",
+          "desc": "Reduces recharge on tricks by 20%. Tricks remove conditions."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Pressure Striking",
+          "desc": "Enemies you interrupt are inflicted with torment."
         }
       },
       "grandmaster": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Hastened Replenishment",
+          "desc": "You receive initiative when using a heal skill."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Sleight of Hand",
+          "desc": "Stealing also dazes the target. Reduces the recharge of Steal."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Bewildering Ambush",
+          "desc": "Stealing also applies confusion."
         }
       }
     },
     "6": {
-      "name": "",
+      "name": "TBD",
       "elite": 1,
       "minor": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "TBD",
+          "desc": "TBD"
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "TBD",
+          "desc": "TBD"
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "TBD",
+          "desc": "TBD"
         }
       },
       "adept": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "TBD",
+          "desc": "TBD"
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "TBD",
+          "desc": "TBD"
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "TBD",
+          "desc": "TBD"
         }
       },
       "master": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "TBD",
+          "desc": "TBD"
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "TBD",
+          "desc": "TBD"
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "TBD",
+          "desc": "TBD"
         }
       },
       "grandmaster": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "TBD",
+          "desc": "TBD"
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "TBD",
+          "desc": "TBD"
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "TBD",
+          "desc": "TBD"
         }
       }
     }

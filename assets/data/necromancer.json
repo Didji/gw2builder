@@ -1,357 +1,357 @@
 {
   "specializations": {
     "1": {
-      "name": "",
+      "name": "Spite",
       "minor": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Spiteful Renewal",
+          "desc": "Gain health and lose conditions when you strike a foe below the health threshold (25%)."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Death’s Embrace",
+          "desc": "Inflict Vulnerability when you strike a foe below the health threshold (33%). Deal 25% more damage while downed."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Siphoned Power",
+          "desc": "Gain might when you strike a foe below the health threshold (50%)."
         }
       },
       "adept": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Spiteful Talisman",
+          "desc": "Deal 5% increased damage to foes with no boons. Focus skills recharge 20% faster."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Reaper’s Might",
+          "desc": "Life Blast and Plague Blast grant might."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Bitter Chill",
+          "desc": "Chilling a foe inflicts vulnerability."
         }
       },
       "master": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Chill of Death",
+          "desc": "Cast Spinal Shivers on a foe when attacking them while their health is below the threshold (50%)."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Death Shiver",
+          "desc": "Constantly apply vulnerability to nearby foes while in death shroud."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Axe Training",
+          "desc": "Axe skills deal 10% increased damage to crippled foes. Striking with Rending Claws recharges your other axe skills by a small amount (2%)."
         }
       },
       "grandmaster": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Signet Mastery",
+          "desc": "Activating Signet of Locust when struck while below the health threshold (50%). Reduces recharge on signets by 20%. Activating a signet grants might."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Close to Death",
+          "desc": "Increases 20% damage to enemies below the health threshold (50%)."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Spiteful Spirit",
+          "desc": "Cast Unholy Feast when entering death shroud."
         }
       }
     },
     "2": {
-      "name": "",
+      "name": "Curses",
       "minor": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Barbed Precision",
+          "desc": "Critical hits have a 66% chance to cause bleeding. Increases bleed duration by 20%."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Furious Demise",
+          "desc": "Gain fury when entering death shroud."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Target the Weak",
+          "desc": "Increases 2% critical hit chance for each condition on your foe."
         }
       },
       "adept": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Toxic Landing",
+          "desc": "Cast Corrosive Poison Cloud when you take falling damage. Reduce 50% fall damage and 20% Corruption recharge."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Weakened Shroud",
+          "desc": "Cast Enfeebling Blood when entering death shroud."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Chilling Darkness",
+          "desc": "Blinding a target will also apply chill."
         }
       },
       "master": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Reaper’s Precision",
+          "desc": "You have a 33% chance to gain life force on critical hits."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Path of Corruption",
+          "desc": "Dark Path now additionally convert boons into conditions."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Banshee’s Wail",
+          "desc": "Reduces recharge on warhorn skills by 20% and increases their effect durations by 50%."
         }
       },
       "grandmaster": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Lingering Curse",
+          "desc": "While wielding a scepter your condition damage +150 and outgoing condition condition duration is increased by 100%."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Parasitic Contagion",
+          "desc": "15% of your condition damage heals you."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Terror",
+          "desc": "Fear deals damage; it deals additional damage if the target is afflicted with another condition."
         }
       }
     },
     "3": {
-      "name": "",
+      "name": "Death’s Magic",
       "minor": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Armored Shroud",
+          "desc": "Gain 180 toughness while in death shroud."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Soul Comprehension",
+          "desc": "Your passive life-force generation from nearby deaths is increased by 20%."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Beyond the Veil",
+          "desc": "Whenever you leave Death Shroud you and your minions gain protection."
         }
       },
       "adept": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Flesh of the Master",
+          "desc": "Minions have 50% increased health. Gain 20 bonus toughness for each minion you control."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Shrouded Removal",
+          "desc": "Lose a condition when you enter death shroud."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Putrid Defense",
+          "desc": "Take 10% less damage from poisoned foes."
         }
       },
       "master": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Greater Marks",
+          "desc": "Increases area of marks and marks become unblockable."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Reaper’s Protection",
+          "desc": "When disabled, inflict fear on nearby foes."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Deadly Strength",
+          "desc": "Gain 7% power based on your toughness. Power gain doubles while in Death Shroud."
         }
       },
       "grandmaster": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Death Nova",
+          "desc": "Minions explode in a cloud of poison when they die. This effect also triggers when you are downed. When you kill an enemy, summon a Jagged Horror minion to fight by your side."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Necromantic Corruption",
+          "desc": "Minions deal 25% more damage and take conditions from you. Whenever a minion attacks it transfer conditions to its target (10s cooldown per minion)."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Unholy Sanctuary",
+          "desc": "Regenerate health while in death shroud. If your life force is above the threshold (10%), your death shroud will activate if you would take a lethal blow."
         }
       }
     },
     "4": {
-      "name": "",
+      "name": "Blood Magic",
       "minor": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Full of Life",
+          "desc": "Gain regeneration when your health drops below the threshold (90%)."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Vampiric",
+          "desc": "Siphon health whenever you hit a foe. Minions siphon health and transfer it to you."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Blood to Power",
+          "desc": "Gain 300 additional healing power while your health is below the threshold (75%)."
         }
       },
       "adept": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Ritual of Life",
+          "desc": "Create a Well of Blood when reviving an ally. Revive speed increased by 10%."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Bloodthirst",
+          "desc": "Siphoning health is 20% more effective."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Mark of Evasion",
+          "desc": "Leave a Mark of Blood when you dodge."
         }
       },
       "master": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Quickening Thirst",
+          "desc": "Increases 25% movement speed while wielding a dagger. Dagger skills recharge 33% faster when activated above the health threshold."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Vampiric Precision",
+          "desc": "Siphon health whenever you critically hit."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Transfusion",
+          "desc": "Life Transfer heals nearby allies."
         }
       },
       "grandmaster": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Vampiric Rituals",
+          "desc": "Wells siphon health every time they pulse and grant protection to allies when cast. Reduce recharge of wells by 20%."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Unholy Martyr",
+          "desc": "Draw conditions from allies while in death shroud. Gaining life force each time a condition is drawn."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Deathly Invigoration",
+          "desc": "Heal in an area when you enter death shroud."
         }
       }
     },
     "5": {
-      "name": "",
+      "name": "Soul Reaping",
       "minor": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Gluttony",
+          "desc": "Increase life force gain from skills by 10%."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Last Gasp",
+          "desc": "Gain Spectral Armor when your health falls below the threshold (50%)."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Strength of Undeath",
+          "desc": "You do more damage while above the life-force threshold (50%). Max Life-force increased by 15%."
         }
       },
       "adept": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Unyielding Blast",
+          "desc": "Life Blast and Plague Blast pierce and cause vulnerability."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Soul Marks",
+          "desc": "Marks generate 3% life force when triggered. Staff skills recharge 20% faster."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Speed of Shadows",
+          "desc": "Increase 25% movement speed while in death shroud. Reduces 30% recharge on death shroud."
         }
       },
       "master": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Spectral Mastery",
+          "desc": "Reduce recharge on spectral skills by 20%. Spectral skills last 50% longer and grant lifeforce on use."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Vital Persistence",
+          "desc": "Life force drains 50% slower while in death shroud. Death shroud skills recharge 15% faster."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Master of Terror",
+          "desc": "Your fear effects have 50% increased duration. Inflict fear on foes when you are downed."
         }
       },
       "grandmaster": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Foot in the Grave",
+          "desc": "Gain stability and break stuns when you enter death shroud."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Death Perception",
+          "desc": "Increases 50% critical-hit chance while in death shroud."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Dhuumfire",
+          "desc": "Life Blast will inflict burning on your target."
         }
       }
     },
     "6": {
-      "name": "",
+      "name": "Reaper",
       "elite": 1,
       "minor": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Shroud Knight",
+          "desc": "You can equip greatswords, and use reaper shouts. Death shroud is replaced with reaper's shroud, which has more melee oriented skills."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Shivers of Dread",
+          "desc": "Whenever you inflict fear, you also chill."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Cold Shroud",
+          "desc": "Cause your chill to 20% longer and reduce damage from chilled foes by 15%."
         }
       },
       "adept": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Augury of Death",
+          "desc": "Shouts recharge 7% faster for each foe they hit."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Chilling Nova",
+          "desc": "Critical hits against chilled foes cause an explosion that chill nearby foes. Cannot happen more than 3 times within 10 seconds."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Relentless Pursuit",
+          "desc": "Reduce duration of movement impairing conditions. 66% reduction while in Reaper’s Shroud."
         }
       },
       "master": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Soul Eater",
+          "desc": "Cause your greatsword attacks to steal health. It also cause Gravedigger to recharge by 3% per foe hit."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Chilling Force",
+          "desc": "Gain might and life force when you hit a chilled foe."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Decimate Defenses",
+          "desc": "Striking a foe with vulnerability give you 2% critical hit chance per stack."
         }
       },
       "grandmaster": {
         "1": {
-          "name": "",
-          "desc": ""
+          "name": "Blight’s Boon",
+          "desc": "Gain lifeforce when you gain boon. If you are in reaper’s shroud, gain health instead."
         },
         "2": {
-          "name": "",
-          "desc": ""
+          "name": "Deathly Chill",
+          "desc": "Cause chill to damage and deal more damage to foes below the health threshold (50%)."
         },
         "3": {
-          "name": "",
-          "desc": ""
+          "name": "Reaper’s Onslaught",
+          "desc": "Attack 15% while in Reaper’s Shroud. Killing a foe recharge Death’s Charge."
         }
       }
     }
