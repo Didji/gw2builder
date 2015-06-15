@@ -357,6 +357,10 @@
     }
   },
   "skills": {},
-  "weapons": {},
+  "weapons": {
+    "twoHand": ["shortbow"],
+    "mainHand": ["dagger", "pistol", "sword"],
+    "offHand": ["dagger", "pistol"]
+    },
   "stats": {}
 }

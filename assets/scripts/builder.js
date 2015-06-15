@@ -1,7 +1,8 @@
 $(document).ready(function () {
 	'use strict';
 	//var professions = ['elementalist', 'engineer', 'guardian', 'mesmer', 'necromancer', 'ranger', 'revenant', 'thief', 'warrior'];
-	var $builder = $('#builder');
+	var $builder = $('#builder'),
+		$weaponSelection = $('#weaponSelection');
 
 	var BASE_STATS = {
 		'health': 924,
@@ -20,11 +21,17 @@ $(document).ready(function () {
 
 	$builder.find('#professionSelection div').each(function () {
 		$(this).on('click', function () {
-			$('.selected').removeClass('selected');
-			$(this).addClass('selected');
+			$('.professionSelected').removeClass('professionSelected');
+			$(this).addClass('professionSelected');
 
+			resetBuilder();
 			loadProfession($(this).data('profession'));
 		});
+	});
+
+	$weaponSelection.on('click', '.weapon-icon', function() {
+		$('.weaponSelected').removeClass('weaponSelected');
+		$(this).addClass('weaponSelected');
 	});
 
 	function loadProfession(profession) {
@@ -32,9 +39,7 @@ $(document).ready(function () {
 		var url = './data/' + profession + '.json';
 
 		$.get(url,
-			function (data) {
-				parseProfessionData(data);
-			},
+			function (data) { parseProfessionData(data); },
 			'json'
 		);
 	}
@@ -46,5 +51,20 @@ $(document).ready(function () {
 		CURRENT_STATS = data.stats;
 
 		BASE_STATS += CURRENT_STATS;
+
+		loadWeapons(CURRENT_WEAPONS);
+		console.log(CURRENT_WEAPONS);
+	}
+
+	function loadWeapons(weapons) {
+		$.each(weapons, function (slot, weapon){
+			$.each(weapon, function (index, detail){
+				$weaponSelection.append("<div class='" + detail + "-icon weapon-icon'></div>");
+			});
+		});
+	}
+
+	function resetBuilder() {
+		$weaponSelection.empty();
 	}
 });

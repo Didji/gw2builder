@@ -40,9 +40,42 @@
 		background: url("/images/profession/professions_icons.png") #{$cornerHover}px 0 no-repeat;
 	}
 
-	.#{$profession}-icon.selected {
+	.#{$profession}-icon.professionSelected {
 		width: 32px;
 		height: 32px;
 		background: url("/images/profession/professions_icons.png") #{$cornerSelected}px 0 no-repeat;
+	}
+}
+
+#weaponSelection {
+	background-color: #777;
+	height: 35px;
+	width: 1200px;
+	vertical-align: bottom;
+	text-align: center;
+}
+
+@each $weapon in $weapons {
+	$i: index($weapons, $weapon);
+	$cornerBase: (($i - 1) * 32) * -1;
+	$cornerHover: (($i + 15) * 32) * -1;
+	$cornerSelected: (($i + 31) * 32) * -1;
+	.#{$weapon}-icon {
+		width: 32px;
+		height: 32px;
+		background: url("/images/weapon/weapons_icons.png") #{$cornerBase}px 0 no-repeat;
+		display: inline-block;
+	}
+
+	.#{$weapon}-icon:hover {
+		width: 32px;
+		height: 32px;
+		background: url("/images/weapon/weapons_icons.png") #{$cornerHover}px 0 no-repeat;
+	}
+
+	.#{$weapon}-icon.weaponSelected {
+		width: 32px;
+		height: 32px;
+		background: url("/images/weapon/weapons_icons.png") #{$cornerSelected}px 0 no-repeat;
 	}
 }

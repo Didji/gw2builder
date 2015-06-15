@@ -357,6 +357,10 @@
     }
   },
   "skills": {},
-  "weapons": {},
+  "weapons": {
+    "twoHand": ["staff"],
+    "mainHand": ["axe", "dagger", "scepter"],
+    "offHand": ["dagger", "focus", "warhorn"]
+    },
   "stats": {}
 }

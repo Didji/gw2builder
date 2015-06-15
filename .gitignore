@@ -11,3 +11,4 @@ bower.json
 Gruntfile.js
 Procfile
 .jshintrc
+*.xcf
